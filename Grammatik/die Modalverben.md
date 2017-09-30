@@ -14,7 +14,7 @@ Modal verbs require a verb in the infinitive that complements its meaning and al
 Verb | Meaning | English | Türkçe | Beispiel
 --- | --- | --- | --- | ---
 **dürfen** | to be allowed<br >_izinli olmak_  | allowed | hakkı olmak | **Hier dürfen Sie nicht rauchen!**<br>You are not allowed to smoke here!<br>_Burada sigara içemezsiniz!_
-**können** | to be able to | can | -e bilmek | **Ich kann Auto fahren.**<br / >I can drive.<br / >_Otomobil sürebilirim._
+**können** | to be able to | can | -e bilmek | **Ich kann Auto fahren.**<br>I can drive.<br>_Otomobil sürebilirim._
 **mögen** | to like<br />arzu etmek | like | iyi olur, hoşlanırım | **Was mögen Sie machen?**<br>What do you like to do?<br>Ne yapmak istersiniz?
 **müssen** | to have to | must | -mek zorunda,<br>-mak zorunda | **Ich muss nach hause gehen**<br />I must go to home.<br>_Eve gitmem gerekiyor._
 **sollen** | to be supposed to | should | -meli, -malı | **Ich sollte nach Hause gehen**<br>I should go to home.<br>_Eve gitmeliyim._
