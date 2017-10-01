@@ -10,6 +10,7 @@ Nominative | Akkusativ<br>Direkt Objekt | Dativ<br>Indirekt Objekt | Genitiv | E
 **Welcher** | |  | | Which<br>_Hangi?_ | **Welche Farbe hat dein Kleid?**<br>What colour is your dress?<br>_Elbiseniz hangi renk?_
 **Wo** | |  | | Where<br>_Nerede?_ | **Wo bist du?**<br>Where are you?<br>_Neredesin?_
 
+
 ## Was / What / Ne
 
 It basically means "what".  
