@@ -1,5 +1,5 @@
-## W-Fragen / Question Templates
-### Soru Kalıpları
+## W-Fragen / Interrogative pronouns & Templates
+### Soru Zamir ve Kalıpları
 
 
 Nominative | Akkusativ<br>Direkt Objekt | Dativ<br>Indirekt Objekt | Genitiv | English<br>_Türkçe_ | Beispiel / Example
@@ -8,6 +8,7 @@ Nominative | Akkusativ<br>Direkt Objekt | Dativ<br>Indirekt Objekt | Genitiv | E
 **Wer** | Wen | Wen | Wessen| Who<br>_Kim?_ | **Wer besucht dich?**<br>Who is visiting you?<br>_Sizi ziyaret eden kim?_
 **Warum** | |  | | Why<br>_Neden?_ | **Warum hast du nicht angerufen?**<br>Why did not you call me?<br>_Beni neden aramadın?_
 **Welcher** | |  | | Which<br>_Hangi?_ | **Welche Farbe hat dein Kleid?**<br>What colour is your dress?<br>_Elbiseniz hangi renk?_
+**Wo** | |  | | Where<br>_Nerede?_ | **Wo bist du?**<br>Where are you?<br>_Neredesin?_
 
 ## Was / What / Ne
 
@@ -57,3 +58,16 @@ Beispiel | English | Türkçe
 **Wann willst du essen?** | When do you want to eat? | Ne zaman yemek istiyorsun?
 
  
+## Wo / Where / Nerede
+
+Deutsch | English | Türkçe | Beispiel
+--- | --- | --- | ---
+**Wo**  | Where | Nerede | **Wo wohnst du?**<br>Where do you live?<br>_Nerede yaşıyorsun?_
+**Wohin**  | to where | nereye | **Wohin fährst du?**<br>Where are you going to?<br>_Nereye gidiyorsun?_
+**Woher**  | from where | nereden | **Woher kommst du?**<br>Where do you come from?<br>_Nereden geliyorsun?_
+**Woran**  | about what | ne (hakkında) | **Woran denkst du?**<br>What are you thinking about?<br>_Sen ne düşünüyorsun?_
+**Worauf**  | for what / on what | ne (için) | **Worauf wartest du?**<br>What are you waiting for?<br>_Niçin bekliyorsun?_
+**Woraus**  | from what | neden (madde) | **Woraus wird Bier eigentlich gemacht?**<br>What is beer really made from?<br>_Bu birayı neden (hangi maddeden) yapmışlar?_
+**Wobei**  | in what / in which | ne şekilde | **Wobei helfen wir denn?**<br>What can we help with?<br>_Nasıl yardımcı olabiliriz?_
+**Worin**  | in what | nedir | **Worin liegt dein Problem?**<br>What is your problem?<br>_Senin problemin nedir?_
+**Wozu**  | for what | niye | **Wozu brauche ich ein Auto?**<br>What do I need a car for?<br>_Ne için bir arabaya ihtiyacım var?_
