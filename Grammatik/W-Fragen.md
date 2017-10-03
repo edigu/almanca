@@ -9,6 +9,7 @@ Nominative | Akkusativ<br>Direkt Objekt | Dativ<br>Indirekt Objekt | Genitiv | E
 **Warum** | |  | | Why<br>_Neden?_ | **Warum hast du nicht angerufen?**<br>Why did not you call me?<br>_Beni neden aramadın?_
 **Welcher** | |  | | Which<br>_Hangi?_ | **Welche Farbe hat dein Kleid?**<br>What colour is your dress?<br>_Elbiseniz hangi renk?_
 **Wo** | |  | | Where<br>_Nerede?_ | **Wo bist du?**<br>Where are you?<br>_Neredesin?_
+**Wie** | |  | | How<br>_Nasıl?_ | **Wie alt bist du?**<br>How old are you?<br>_Kaç yaşındasın?_
 
 
 ## Was / What / Ne
@@ -25,6 +26,7 @@ Beispiel | English | Türkçe
 **Was für eine überraschung!** | What a surprise! | Bu ne güzel sürpriz!
 **Was für einen Tee möchten Sie?** | What kind of tea would you like? | Ne tür bir çay içmek istersiniz?
 **Was für ein Tag!** | What a day! | Ne biçim bir gün!
+**Was bedeutet das?** | What does it mean? | O ne demek?
 
 
 
