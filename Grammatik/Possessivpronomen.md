@@ -5,8 +5,8 @@
  - (A) Akkusativ
 
 
-Personal- artikel | Maskulin | Feminin | Neutral | Plural
---- | --- | --- | --- | --- | --- | ---
+Personal artikel | Maskulin | Feminin | Neutral | Plural
+--- | --- | --- | --- | ---
 **ich**<br>I<br>_Ben_ | (N) mein<br>(A) meinen | meine | mein | meine
 **du**<br>you<br>_Sen_ | (N) dein<br>(A) deinen | deine | dein | deine
 **er**<br>he<br>_O (erkek)_ | (N) sein<br>(A) seinen | seine | sein | seine
