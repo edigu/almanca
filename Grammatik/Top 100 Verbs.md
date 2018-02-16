@@ -39,13 +39,13 @@ No | Verb | English | Türkçe | Beispiel / Example
 33 | **leben** | to live | yaşam / hayat | **das Leben Picassos**<br>The life of Picasso<br>_Picasso'nun hayatı_
 34 | **fahren** | to drive / ride / go | sürmek / gitmek (araçla) | **Wir fahren in 5 Minuten**<br>We'll be going (leave) in 5 minutes<br>5 dakika içinde hareket ediyoruz
 35 | **meinen** | to think / have an opinion | düşünmek / fikri olmak | **Was meinen Sie?**<br>What do you mean?<br>_Ne demeye çalışıyorsun?_
-36 | **fragen** | to ask | xx |
-37 | **kennen** | to know | xx |
-38 | **gelten** | to be valid | xx |
-39 | **stellen** | to place / set | xx |
-40 | **spielen** | to play | xx |
-41 | **arbeiten** | to work | xx |
-42 | **brauchen** | to need | xx |
+36 | **fragen** | to ask | sormak | **Frage ihn.**<br>Ask to him.<br>_Ona sor_
+37 | **kennen** | to know | bilmek / tanımak | **Kennen Sie sich?**<br>Do you know each other?<br>_Birbirinizi tanıyor musunuz?_
+38 | **gelten** | to be valid | geçerli olmak / geçerlilik | **Die Fahrkarten gelten nur zwei Tage.**<br>The tickets are valid for only two days.<br>_Biletler sadece iki gün için geçerlidir._
+39 | **stellen** | to place /set/put  | bir yere koymak / ayarlamak | **Das Regal stellen wir hier in die Ecke.**<br>We place the shelf here in the corner.<br>_Rafı bu köşeye koyuyoruz_
+40 | **spielen** | to play | oyun oynamak | **Die Kinder spielen gern im Sand.**<br>The kids like to play in the sand.<br>_Çocuklar kumda oynamayı sever._
+41 | **arbeiten** | to work | çalışmak (bir iş yapmak) | **In welchem Bereich möchten Sie arbeiten?**<br>In which area would you like to work?<br>_Hangi alanda çalışmak istersiniz?_
+42 | **brauchen** | to need | ihtiyaç | **Du brauchst nicht zu klingeln, die Tür ist auf.**<br>You do not need to ring the bell, the door is open.<br>_Zili çalmanıza gerek yok, kapı açık_
 43 | **folgen** | to follow | xx |
 44 | **lernen** | to learn | xx |
 45 | **bestehen** | to exist / insist / pass (an exam) | xx |
