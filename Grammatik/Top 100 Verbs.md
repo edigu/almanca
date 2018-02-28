@@ -46,23 +46,23 @@ No | Verb | English | Türkçe | Beispiel / Example
 40 | **spielen** | to play | oyun oynamak | **Die Kinder spielen gern im Sand.**<br>The kids like to play in the sand.<br>_Çocuklar kumda oynamayı sever._
 41 | **arbeiten** | to work | çalışmak (bir iş yapmak) | **In welchem Bereich möchten Sie arbeiten?**<br>In which area would you like to work?<br>_Hangi alanda çalışmak istersiniz?_
 42 | **brauchen** | to need | ihtiyaç | **Du brauchst nicht zu klingeln, die Tür ist auf.**<br>You do not need to ring the bell, the door is open.<br>_Zili çalmanıza gerek yok, kapı açık_
-43 | **folgen** | to follow | xx |
-44 | **lernen** | to learn | xx |
-45 | **bestehen** | to exist / insist / pass (an exam) | xx |
-46 | **verstehen** | to understand | xx |
-47 | **setzen** | to set / put / place | xx |
-48 | **bekommen** | to get / receive | xx |
-49 | **beginnen** | to begin | xx |
-50 | **erzählen** | to narrate / tell | xx |
-51 | **versuchen** | to try / attempt | xx |
-52 | **schreiben** | to write | xx |
-53 | **laufen** | / to run | xx |
-54 | **erklären** | to explain | xx |
-55 | **entsprechen** | to correspond | xx |
-56 | **sitzen** | to sit | xx |
-57 | **ziehen** | to pull / move | xx |
-58 | **scheinen** | to shine / seem / appear | xx |
-59 | **fallen** | to fall | xx |
+43 | **folgen** | to follow | takip etmek | **Wir folgen dir.**<br>We are following you.<br>_Seni takip ediyoruz._
+44 | **lernen** | to learn | öğrenmek | **Du musst jeden Tag Deutsch lernen.**<br>You have to learn German every day.<br>_Her gün Almanca öğrenmelisin._
+45 | **bestehen** | to exist / insist / pass (an exam) | oluşmak / mevcut olmak | **Unsere Firma besteht jetzt genau 100 Jahre.**<br>Our company is now exactly 100 years old.<br>_Şirketimiz bugün itibariyle tam 100 yaşında._
+46 | **verstehen** | to understand | anlamak | **Ich verstehe nicht.**<br>I don't understand<br>_Anlamadım_
+47 | **setzen** | to set / put / place | oturmak | **Bitte setzen Sie sich!**<br>Please sit down!<br>_Lütfen oturun._
+48 | **bekommen** | to get / receive | almak | **Ich bekomme jeden Tag eine Spritze.**<br>I get an injection every day.<br>_Her gün bir iğne alıyorum (vuruluyorum)_
+49 | **beginnen** | to begin | başlamak | **In zwei Wochen beginnen die Sommerferien.**<br>In two weeks the summer holidays begin.<br>_Yaz tatilleri iki hafta içinde başlıyor_
+50 | **erzählen** | to narrate / to tell | anlatmak / söylemek | **Ich muss dir etwas erzählen.**<br>I have to tell you something.<br>_Sana bir şey söylemem lazım_
+51 | **versuchen** | to try / attempt | denemek | **Ich werde mein Glück versuchen.**<br>I will try my luck.<br>_Şansımı deneyeceğim_
+52 | **schreiben** | to write | yazmak | **Ich schreibe dir eine E-Mail.**<br>I will write an E-mail to you.<br>_Sana bir e-posta yazacağım._
+53 | **laufen** | / to run | koşmak | **Er musste laufen, um den Bus zu erreichen.**<br>He had to run to catch the bus.<br>_Otobüsü yakalamak için koşmak zorunda kaldı_
+54 | **erklären** | to explain | açıklamak | **Ich erkläre dir die Sache nachher.**<br>I'll explain the matter to you later.<br>_Ne anlama geldiğini sana daha sonra açıklayacağım_
+55 | **entsprechen** | to correspond | uymak / karşılamak | **Das entspricht nicht ihrer Art.**<br>That does not match her style.<br>_Bu onun tarzıyla uyuşmuyor_
+56 | **sitzen** | to sit | oturmak | **Wo möchten Sie sitzen?.**<br>Where would you like to sit?<br>_Nereye oturmak istersiniz?_
+57 | **ziehen** | to pull / move | asılmak / çekmek | **Du schiebst, und ich ziehe!**<br>You push and I pull!<br>_Sen ittin, ben de çektim!_
+58 | **scheinen** | to shine / seem to be / appear | benzemek / görünmek | **Er scheint reich zu sein.**<br>He seems to be rich.<br>_O zengin görünüyor (zengin olmalı)_
+59 | **fallen** | to fall | düşmek | **Das ist vom Tisch gefallen.**<br>That fell off the table.<br>Bu masadan düştü.
 60 | **gehören** | to belong | xx |
 61 | **entstehen** | to originate / develop | xx |
 62 | **erhalten** | to receive | xx |
