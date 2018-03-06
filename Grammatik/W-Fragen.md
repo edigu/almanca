@@ -4,12 +4,12 @@
 
 Nominative | Akkusativ<br>Direkt Objekt | Dativ<br>Indirekt Objekt | Genitiv | English<br>_Türkçe_ | Beispiel / Example
 --- | --- | --- | --- | --- | ---
-**Was** |  |  |  | What<br>_Ne?_ | **Was ist passiert?**<br>What happened?<br>_Ne oldu?_
-**Wer** | Wen | Wen | Wessen| Who<br>_Kim?_ | **Wer besucht dich?**<br>Who is visiting you?<br>_Sizi ziyaret eden kim?_
-**Warum** | |  | | Why<br>_Neden?_ | **Warum hast du nicht angerufen?**<br>Why did not you call me?<br>_Beni neden aramadın?_
-**Welcher** | |  | | Which<br>_Hangi?_ | **Welche Farbe hat dein Kleid?**<br>What colour is your dress?<br>_Elbiseniz hangi renk?_
-**Wo** | |  | | Where<br>_Nerede?_ | **Wo bist du?**<br>Where are you?<br>_Neredesin?_
-**Wie** | |  | | How<br>_Nasıl?_ | **Wie alt bist du?**<br>How old are you?<br>_Kaç yaşındasın?_
+**Was** | was | was | wessen | What<br>_Ne?_ | **Was ist passiert?**<br>What happened?<br>_Ne oldu?_
+**Wer** | wen | wen | wessen| Who<br>_Kim?_ | **Wer besucht dich?**<br>Who is visiting you?<br>_Sizi ziyaret eden kim?_
+**Warum** | warum | warum | warum | Why<br>_Neden?_ | **Warum hast du nicht angerufen?**<br>Why did not you call me?<br>_Beni neden aramadın?_
+**Welcher** | welchen | welchem | welches | Which<br>_Hangi?_ | **Welche Farbe hat dein Kleid?**<br>What colour is your dress?<br>_Elbiseniz hangi renk?_
+**Wo** | wo | wo | wo | Where<br>_Nerede?_ | **Wo bist du?**<br>Where are you?<br>_Neredesin?_
+**Wie** | wie | wie | wie | How<br>_Nasıl?_ | **Wie alt bist du?**<br>How old are you?<br>_Kaç yaşındasın?_
 
 
 ## Was / What / Ne
