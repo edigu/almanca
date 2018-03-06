@@ -20,7 +20,7 @@ Nominativ | Akusativ | Dativ | Genitiv | Beispiel / Example
 **ein** (Masculine) | einen | einem | eines | -
 **eine** (Feminine) | eine | einer | einer | -
 **ein** (Neuter) | ein | einem | eines | -
-**-eine** (Plural) | -eine | -einen | *einer | -
+**-eine** (Plural) | -eine | -einen | -einer | -
 
 The same endings are used for the negative indefinite article-like word (kein-), and the adjectival possessive pronouns (alias: possessive adjectives, possessive determiners), mein- (my), dein- (your (singular)), sein- (his), ihr- (her and their), unser- (our), euer/eur- (your (plural), if addressing a group), Ihr- (your if addressing an authority figure, always capitalised).
 
