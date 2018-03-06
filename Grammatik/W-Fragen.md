@@ -12,6 +12,8 @@ Nominative | Akkusativ<br>Direkt Objekt | Dativ<br>Indirekt Objekt | Genitiv | E
 **Wie** | wie | wie | wie | How<br>_Nasıl?_ | **Wie alt bist du?**<br>How old are you?<br>_Kaç yaşındasın?_
 **Wann** | wann | wann | wann | When<br>_Ne zaman?_ | **Wann kommst du wieder?**<br>When will you be back?<br>_Ne zaman geri geleceksin?_
 
+> Don't confuse the **Wann** with **Wenn** (if)
+
 
 ## Was / What / Ne
 
