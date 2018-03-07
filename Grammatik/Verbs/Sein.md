@@ -18,5 +18,6 @@ Person | Zeitform | Deutsch | English | Türkçe
 --- | --- | --- | --- | ---
 Ich | Präsens | **Ich bin krank.** | I am sick. | _Ben hastayım._
 Ich | Präteritum | **Ich war gestern dort** | I was there yesterday. | _Ben dün oradaydım._
+Ich | Perfekt | **Gestern bin ich krank gewesen.** | I was sick yesterday. | _Ben dün hastaydım._
 Wir | Präsens | **Wir sind fast da.** | We're almost there. | _Neredeyse geldik. (vardık)_
 Wir | Präteritum | **Wir waren unser drei.** | There were five of us. | _Biz üç kişiydik._
