@@ -2,9 +2,21 @@
 
 **Sein oder nicht sein**  / To be or not to be / _Olmak ya da olmamak_
 
-### Present & Past
+### Einfache Verbformen & Indikativ
 
-Person | Präsens (Singular) | Präsens (Plural) | Vergangenheit (Singular) | Vergangenheit (Plural)
---- | --- | --- | --- | --- 
-Ich | **Ich bin** | **wir** | **Ich war** | **Wir waren**
-Ich | **Ich bin krank**<br>I am sick<br>_Ben hastayim_ | **Wir sind fast da**<br>We're almost there<br>Neredeyse geldik | **Ich war gestern dort**<br>I was there yesterday<br>_Ben dun oradaydim_ | **Wir waren unser drei**<br>There were five of us<br>_Biz uc kisiydik_
+Person | Präsens | Präteritum (Past) | Imperativ | Konjunktiv I | Konjunktiv II | Perfekt | Futur I
+--- | --- | --- | --- | --- | --- | --- | --- 
+Ich | **bin** | war | &ndash; | sei | wäre | bin gewesen | werde sein
+Du | **bist** | warst | sei | seiest | wärest | bist gewesen | wirst sein
+Er | **ist** | war | &ndash; | sei | wäre | ist gewesen | war gewesen
+Wir | **sind** | waren | seien | seien | wären | sind gewesen | werden sein
+Ihr | **seid** | wart | seid | seiet | wäret | seid gewesen | werdet sein
+Sie | **sind** | waren | seien | seien | wären | sind gewesen | werden sein
+
+### Examples
+Person | Zeitform | Deutsch | English | Türkçe
+--- | --- | --- | --- | ---
+Ich | Präsens | **Ich bin krank.** | I am sick. | _Ben hastayım._
+Ich | Präteritum | **Ich war gestern dort** | I was there yesterday. | _Ben dün oradaydım._
+Wir | Präsens | **Wir sind fast da.** | We're almost there. | _Neredeyse geldik. (vardık)_
+Wir | Präteritum | **Wir waren unser drei.** | There were five of us. | _Biz üç kişiydik._
