@@ -10,6 +10,7 @@ Album, das | Album | Albüm
 fallen | to fall | düşmek
 lang | long | uzun
 physik | physics | fizik
+Präfix, das | prefix | önek
 superb | superb | muhteşem
 transparent | transparent | şeffaf
 warm | warm | ısı
