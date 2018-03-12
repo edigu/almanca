@@ -28,7 +28,7 @@ No | Verb | English | Türkçe | Beispiel / Example
 22 | **nehmen** | to take | almak | **Wir nehmen kein Geld**<br>We aren't taking any money<br>_Para almıyoruz_
 23 | **tun** | to do | yapmak | **Was tust du?**<br>What you are doing?<br>_Ne yapıyorsun?_
 24 | **dürfen** | may / to be allowed | yapmaya izinli olmak | **Wenn ich dürfte...**<br>If I were permitted...<br>_Eğer yapabilseydim..._
-25 | **glauben** | to believe | inanmak | **Ich glaube dir**<br>I believe you<br>_Sana inanıyorum_
+25 | **glauben** | to believe | inanmak | **Ich glaube an dich**<br>I believe in you<br>_Sana inanıyorum_
 26 | **halten** | to stop / hold | durmak / tutmak | **Der Wein hält mich jung**<br>Wine keeps me young<br>_Şarap beni genç tutuyor_
 27 | **nennen** | to name / to call (a name) | isim vermek / seslenmek | **Ich werde meinen Hund Waldo nennen**<br>I will name my dog Waldo<br>_Köpeğime Waldo ismini vereceğim_
 28 | **mögen** | to like | arzu / tercih etmek | **Ich möchte lieber Kaffee (haben)**<br>I would rather have coffee<br>_Kahve içmeyi tercih ederim_
