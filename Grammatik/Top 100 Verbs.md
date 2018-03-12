@@ -63,11 +63,11 @@ No | Verb | English | Türkçe | Beispiel / Example
 57 | **ziehen** | to pull / move | asılmak / çekmek | **Du schiebst, und ich ziehe!**<br>You push and I pull!<br>_Sen ittin, ben de çektim!_
 58 | **scheinen** | to shine / seem to be / appear | benzemek / görünmek | **Er scheint reich zu sein.**<br>He seems to be rich.<br>_O zengin görünüyor (zengin olmalı)_
 59 | **fallen** | to fall | düşmek | **Das ist vom Tisch gefallen.**<br>That fell off the table.<br>Bu masadan düştü.
-60 | **gehören** | to belong | xx |
-61 | **entstehen** | to originate / develop | xx |
-62 | **erhalten** | to receive | xx |
-63 | **treffen** | to meet | xx |
-64 | **suchen** | to search / look for  | xx |
+60 | **gehören** | to belong | ait olmak / parçası olmak | **Es gehört zu meiner Arbeit.**<br>It is part of my job.<br>_Bu benim işimin bir parçası._
+61 | **entstehen** | to originate / develop | gerçeklemek / yapmak | **Das Haus war in nur 8 Monaten entstanden.**<br>The house was built in only eight months.<br>_Bu evi sadece sekiz ayda inşaa ettiler_
+62 | **erhalten** | to receive | almak / yemek | **Die Banken erhalten eine Provision.**<br>Banks receive a commission.<br>_Bankalar bir komisyon alır._
+63 | **treffen** | to meet | buluşmak / görüşmek | **Treffen wir uns!**<br>Let's meet!<br>_Hadi buluşalım!_
+64 | **suchen** | to search / look for  | aramak | **eine Nadel im Heuhaufen suchen**<br>To look for a needle in a haystack<br>_Samanlıkta iğne aramak_
 65 | **legen** | to lay / put | xx |
 66 | **vor·stellen** | to introduce / imagine | xx |
 67 | **handeln** | to deal / trade | xx |
