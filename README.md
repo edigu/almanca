@@ -2,7 +2,7 @@
 The lesson notes I have taken to learn the German language beginning from A1. I decided to create this git repository to regularly improve, remember and read them again in the future.
 
 ## das Alphabet
-![German Alphabet](../_assets/german_abc.gif)
+![German Alphabet](_assets/german_abc.gif)
 
 ## Contribute
  - Are you also interested with the language? Any kind of PR's are welcome!
