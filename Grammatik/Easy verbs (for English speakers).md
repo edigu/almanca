@@ -6,6 +6,7 @@
 Verb | English | Türkçe
 --- | --- | ---
 Amateur, der | Amateur | Amatör
+Akzeptanzkriterien | Acceptance criteras | Kabul kriterleri
 Album, das | Album | Albüm
 fallen | to fall | düşmek
 lang | long | uzun
