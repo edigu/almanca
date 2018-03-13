@@ -5,6 +5,7 @@
 
 Verb | English | Türkçe
 --- | --- | ---
+Asphalt, der | Asphalt | Asfalt
 Bakterie, die | Bacterium | bakteri
 Balkon, das | balcony | balkon
 Beton, der | Concrete, the | beton
