@@ -8,6 +8,7 @@ Verb | English | Türkçe
 Amateur, der | Amateur | Amatör
 Akzeptanzkriterien | Acceptance criteras | Kabul kriterleri
 Album, das | Album | Albüm
+Asphalt, der | Asphalt | Asfalt
 fallen | to fall | düşmek
 lang | long | uzun
 physik | physics | fizik
