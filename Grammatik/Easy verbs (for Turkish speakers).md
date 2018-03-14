@@ -13,10 +13,15 @@ Beton, der | Concrete, the | beton
 Bier, das | Beer | Bira
 bitter | dark | bitter
 Biskuit, das | biscuit | biskuvi
+Dekan, der | Dean | Dekan
+Diesel, der | Diesel | Dizel
 Dozent, der | associate professor | doçent
+Drama, das | Drama | Drama
 Dusche, der | shower | duş
+Element, das | Element | Element
 Embargo, das | embargo | ambargo
 Firma, die | Company | şirket (firma)
+genetisch | genetic | genetik
 Groschen, der | Penny | Kuruş
 kaputt | broken | bozuk, patlak, kaput
 Panda | Panda | Panda
@@ -27,4 +32,7 @@ Schnitzel | schnitzel | Şinitzel
 Schnorchel, der | Snorkel | Şnorkel
 Tomate, die | tomato | domates
 Vampir, der | Vampire | Vampir
+Vokal, das | Vocal | Vokal
 Walzer, der | waltz | Vals
+Zeppelin, der | Zeppelin | Zeplin
+
