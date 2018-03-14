@@ -14,5 +14,6 @@ Dozent, der | associate professor | doçent
 Dusche, der | shower | duş
 Embargo, das | embargo | ambargo
 Firma, die | Company | şirket (firma)
+kaputt | broken | bozuk, patlak, kaput
 Schokolade, die | chocolate | çikolata
 Tomate, die | tomato | domates
