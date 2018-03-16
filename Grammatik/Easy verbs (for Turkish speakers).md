@@ -9,6 +9,7 @@ Akupunktur | Acupuncture | Akupunktur
 Asphalt, der | Asphalt | Asfalt
 Bakterie, die | Bacterium | bakteri
 Balkon, das | balcony | balkon
+Baron, der | baron | baron
 Beton, der | Concrete, the | beton
 Bier, das | Beer | Bira
 bitter | dark | bitter
@@ -21,18 +22,26 @@ Dusche, der | shower | duş
 Element, das | Element | Element
 Embargo, das | embargo | ambargo
 Firma, die | Company | şirket (firma)
+Fotografie, der | Photo | Fotoğraf
 genetisch | genetic | genetik
 Groschen, der | Penny | Kuruş
 kaputt | broken | bozuk, patlak, kaput
+Kajak | Boat | Kayık, kano
+Laborant, der | laboratory | laborant
+Maschine, die | Machine | Makine
 Panda | Panda | Panda
+Panzer | Panzer | Panzer
+politisch | political | politik
 Röntgen | X-ray | Röntgen
 Schalter, der | Circuit breaker | Şalter
 Schokolade, die | chocolate | çikolata
+Schleppschiff, das | Tow boat | şilep
 Schnitzel | schnitzel | Şinitzel
 Schnorchel, der | Snorkel | Şnorkel
+Techniker, die | technician | tekniker
 Tomate, die | tomato | domates
 Vampir, der | Vampire | Vampir
 Vokal, das | Vocal | Vokal
 Walzer, der | waltz | Vals
+Wermut, das | Vermouth | Vermut
 Zeppelin, der | Zeppelin | Zeplin
-
