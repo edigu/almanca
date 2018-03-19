@@ -2,9 +2,9 @@
 
 **Sein oder nicht sein**  / To be or not to be / _Olmak ya da olmamak_
 
-If there is a **change** (condition or position change) we use sein to build the sentence instead of [haben](../Haben.md). 
+If there is a **change** (condition or position change) we use sein to build the sentence instead of [haben](./Haben.md). 
 
-_Eğer bir **değişiklik** söz konusuysa (konum ya da durum değişikliği) cümle kurulurken her zaman [haben](../Haben.md) yerine sein kullanılır_
+_Eğer bir **değişiklik** söz konusuysa (konum ya da durum değişikliği) cümle kurulurken her zaman [haben](./Haben.md) yerine sein kullanılır_
 
 ### Einfache Verbformen & Indikativ
 
