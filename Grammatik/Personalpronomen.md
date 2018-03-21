@@ -12,7 +12,7 @@ NOMINATIV<br>Subject<br>**Yalın hali** | AKKUSATIV<br>Direct Object<br>_İsmin 
 **es**<br>it<br>_o (cansız)_ | **es**<br>it<br>_onu (cansız)_ | **ihm**<br>it / to it<br>_ona (cansız)_ | **seiner**<br>of it<br>_onun (cansız)_
 **wir**<br>we<br>_biz_ | **uns**<br>us<br>_bizi_ | **uns**<br>us / to us<br>_bize_ | **unser**<br>of us<br>_bizim_
 **ihr**<br>you all<br>_sizler_ | **euch**<br>you<br>_sizleri_ | **euch**<br>you / to you<br>_sizlere_ | **euer**<br>yours<br>sizlerin
-**sie**<br>they<br>_onlar_ | **sie**<br>them<br>_onları_ | **ihnen**<br>them / to them<br>_onlara_ | **ihrer**<br>of them<br>_onların_
+**sie**<br>they<br>_onlar_ | **sie**<br>them<br>_onları_ | **ihnen**<br>them / to them<br>_onlara_ | **ihrer**<br>of their<br>_onların_
 **Sie**<br>you (formal)<br>_siz (resmi)_ | **Sie**<br>you<br>_sizi (resmi)_ | **Ihnen**<br>you (polite)<br>_size (resmi)_ | **Ihrer**<br>your (polite)<br>_sizin (resmi)_
 
 ## Substantiv / Noun
