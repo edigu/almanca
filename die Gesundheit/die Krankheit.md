@@ -1,4 +1,4 @@
-## Gesundheit / Health / Sağlık
+## Krankheit / Illness / Hastalık
 
 German | English | Türkçe
 --- | --- | ---
