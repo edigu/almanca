@@ -2,16 +2,16 @@
 
 Deutsch | English | Türkçe
 --- | --- | ---
-**Aktualisieren** | Upgrade | Guncelleme
-**Abbrechen** | Abort/Cancel | Iptal/Vazgec
-**Dateisystem, das** | Filesystem | Dosya sistemi
-**Hinzufügen** | Add | Ekle
+**Aktualisieren** | Upgrade | _Güncelleme_
+**Abbrechen** | Abort/Cancel | _İptal / Vazgeç_
+**Dateisystem, das** | Filesystem | _Dosya sistemi_
+**Hinzufügen** | Add | _Ekle_
 **Implementierung** | Implementation | _Uygulamak_
 **Methodennamen** | Method names | _Fonksiyon isimleri_
-**Schließen** | Close | Kapat
-**Speichern** | Save | Kaydet
-**Standardeinstellung** / Voreinstellung | Default | Varsayilan
-**Syntaxfehler** | Syntax error | Sozdizimi hatasi
+**Schließen** | Close | _Kapat_
+**Speichern** | Save | _Kaydet_
+**Standardeinstellung** / Voreinstellung | Default | _Varsayılan_
+**Syntaxfehler** | Syntax error | _Sözdizimi hatası_
 **Umsetzung** | Realization / Conversion | _Gerçekleme / Dönüşüm_
 **Variablennamen** | Variable names | _Değişken isimleri_
 
