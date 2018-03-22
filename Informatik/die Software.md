@@ -2,11 +2,12 @@
 
 Deutsch | English | Türkçe
 --- | --- | ---
-**Speichern** | Save | Kaydet
+**Aktualisieren** | Upgrade | Guncelleme
 **Abbrechen** | Abort/Cancel | Iptal/Vazgec
+**Das Dateisystem** | Filesystem | Dosya sistemi
 **Hinzufügen** | Add | Ekle
 **Schließen** | Close | Kapat
-**Das Dateisystem** | Filesystem | Dosya sistemi
-**Syntaxfehler** | Syntax error | Sozdizimi hatasi
-**Aktualisieren** | Upgrade | Guncelleme
+**Speichern** | Save | Kaydet
 **Standardeinstellung** / Voreinstellung | Default | Varsayilan
+**Syntaxfehler** | Syntax error | Sozdizimi hatasi
+**Umsetzung** | Implementation | _Uygulamak_
