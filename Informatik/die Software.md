@@ -4,7 +4,7 @@ Deutsch | English | Türkçe
 --- | --- | ---
 **Aktualisieren** | Upgrade | Guncelleme
 **Abbrechen** | Abort/Cancel | Iptal/Vazgec
-**Das Dateisystem** | Filesystem | Dosya sistemi
+**Dateisystem, das** | Filesystem | Dosya sistemi
 **Hinzufügen** | Add | Ekle
 **Implementierung** | Implementation | _Uygulamak_
 **Schließen** | Close | Kapat
