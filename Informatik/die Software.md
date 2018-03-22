@@ -7,8 +7,11 @@ Deutsch | English | Türkçe
 **Dateisystem, das** | Filesystem | Dosya sistemi
 **Hinzufügen** | Add | Ekle
 **Implementierung** | Implementation | _Uygulamak_
+**Methodennamen** | Method names | _Fonksiyon isimleri_
 **Schließen** | Close | Kapat
 **Speichern** | Save | Kaydet
 **Standardeinstellung** / Voreinstellung | Default | Varsayilan
 **Syntaxfehler** | Syntax error | Sozdizimi hatasi
 **Umsetzung** | Realization / Conversion | _Gerçekleme / Dönüşüm_
+**Variablennamen** | Variable names | _Değişken isimleri_
+
