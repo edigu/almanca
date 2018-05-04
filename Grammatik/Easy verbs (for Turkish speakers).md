@@ -6,42 +6,43 @@
 Verb | English | Türkçe
 --- | --- | ---
 Akupunktur | Acupuncture | Akupunktur
-Asphalt, der | Asphalt | Asfalt
-Bakterie, die | Bacterium | bakteri
-Balkon, das | balcony | balkon
-Baron, der | baron | baron
-Beton, der | Concrete, the | beton
-Bier, das | Beer | Bira
+-r Asphalt | Asphalt | Asfalt
+-e Bakterie | Bacterium | bakteri
+-s Balkon | balcony | balkon
+-r Baron | baron | baron
+-r Beton | Concrete, the | beton
+-s Bier | Beer | Bira
 bitter | dark | bitter
-Biskuit, das | biscuit | biskuvi
-Dekan, der | Dean | Dekan
-Diesel, der | Diesel | Dizel
-Dozent, der | associate professor | doçent
-Drama, das | Drama | Drama
-Dusche, der | shower | duş
-Element, das | Element | Element
-Embargo, das | embargo | ambargo
-Firma, die | Company | şirket (firma)
-Fotografie, der | Photo | Fotoğraf
+-s Biskuit | biscuit | biskuvi
+-r Dekan | Dean | Dekan
+-r Diesel | Diesel | Dizel
+-r Dozent | associate professor | doçent
+-s Drama | Drama | Drama
+-r Dusche | shower | duş
+-s Element | Element | Element
+-s Embargo | embargo | ambargo
+-e Firma | Company | şirket (firma)
+-r Fotografie | Photo | Fotoğraf
 genetisch | genetic | genetik
-Groschen, der | Penny | Kuruş
+-r Groschen | Penny | Kuruş
 kaputt | broken | bozuk, patlak, kaput
 Kajak | Boat | Kayık, kano
-Laborant, der | laboratory | laborant
-Maschine, die | Machine | Makine
+-e Kultur | Culture | Kültür
+-r Laborant | laboratory | laborant
+-r Maschine | Machine | Makine
 Panda | Panda | Panda
 Panzer | Panzer | Panzer
 politisch | political | politik
 Röntgen | X-ray | Röntgen
-Schalter, der | Circuit breaker | Şalter
-Schokolade, die | chocolate | çikolata
-Schleppschiff, das | Tow boat | şilep
+-r Schalter | Circuit breaker | Şalter
+-e Schokolade | chocolate | çikolata
+-s Schleppschiff | Tow boat | şilep
 Schnitzel | schnitzel | Şinitzel
-Schnorchel, der | Snorkel | Şnorkel
-Techniker, die | technician | tekniker
-Tomate, die | tomato | domates
-Vampir, der | Vampire | Vampir
-Vokal, das | Vocal | Vokal
-Walzer, der | waltz | Vals
-Wermut, das | Vermouth | Vermut
-Zeppelin, der | Zeppelin | Zeplin
+-r Schnorchel | Snorkel | Şnorkel
+-e Techniker | technician | tekniker
+-e Tomaten | tomato | domates
+-r Vampir | Vampire | Vampir
+-s Vokal | Vocal | Vokal
+-r Walzer | waltz | Vals
+-s Wermut | Vermouth | Vermut
+-r Zeppelin | Zeppelin | Zeplin
