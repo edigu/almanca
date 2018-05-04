@@ -6,6 +6,7 @@
 Verb | English | Türkçe
 --- | --- | ---
 Akupunktur | Acupuncture | Akupunktur
+-e Autobahn | Highway | Otoban
 -r Asphalt | Asphalt | Asfalt
 -e Bakterie | Bacterium | bakteri
 -s Balkon | balcony | balkon
@@ -33,8 +34,10 @@ Kajak | Boat | Kayık, kano
 Panda | Panda | Panda
 Panzer | Panzer | Panzer
 politisch | political | politik
+-r Rentier | Reindeer | Ren geyiği
 Röntgen | X-ray | Röntgen
 -r Schalter | Circuit breaker | Şalter
+-r Schablone | Template | Şablon
 -e Schokolade | chocolate | çikolata
 -s Schleppschiff | Tow boat | şilep
 Schnitzel | schnitzel | Şinitzel
@@ -42,6 +45,7 @@ Schnitzel | schnitzel | Şinitzel
 -e Techniker | technician | tekniker
 -e Tomaten | tomato | domates
 -r Vampir | Vampire | Vampir
+-e Vaseline | Vaseline | Vazelin
 -s Vokal | Vocal | Vokal
 -r Walzer | waltz | Vals
 -s Wermut | Vermouth | Vermut
