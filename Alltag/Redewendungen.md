@@ -19,6 +19,6 @@ Idiom | English equivalent<br>(Literal meaning) | Türkçe anlamı
 **stille Wasser sind tief** | still waters run deep | yumuşak atın çiftesi pek olur
 **Vertrauen ist gut, Kontrolle ist besser!** | Trust, but verify<br>(Trust is good but control is better) | itimat kontrole mani değildir<br>güven, ama yine de kontrol et
 **Öl ins Feuer gießen** | add fuel to the fire<br>(Pour oil into the fire) | yangına körükle gitmek
-**den inneren Schweinehund überwinden** | overcome the inner bastard? | ??
+**den inneren Schweinehund überwinden** | Overcome the inner bastard?<br />(to beat your demons) | ??
 **auch ein blindes Huhn findet mal ein Korn** | Even a blind chicken can find a grain | kör tavuk da mısır bulabilir<br>her topal satıcının bir kör alıcısı vardır
 **die Füße in die Hand nehmen** | to take one's courage in both hands | kelle koltukta toz olmak, topuklamak
