@@ -8,8 +8,8 @@ The lesson notes I have taken to learn the German language beginning from A1. I 
 
 Term | English Explanation
 --- | ---
-**-s Adjektiv**<br>Adjective<br>_Sıfat_ | ?
-**-s Adjektivklausel**<br>Adjective clause<br>_Sıfat tamalaması_
+**-s Adjektiv**<br>Adjective<br>_Sıfat_ | A word or phrase naming an attribute, added to or grammatically related to a noun to modify or describe it.
+**-s Adjektivklausel**<br>Adjective clause<br>_Sıfat tamalaması_ | An adjective clause is simply a group of words with a subject and a verb that provide a description. The clause starts with a relative pronoun such as who, whom, whose, that, or which or a relative adverb such as when, where and why.
 **-s Dativobjeckt**<br>Indirect object<br>_Dolaylı nesne_ | A noun phrase referring to someone or something that is affected by the action of a transitive verb (typically as a recipient), but is not the primary object (e.g., him in give him the book).
 **-s Hilfsverb**<br>Auxiliary verb<br>_Yardımcı Fiil_
 **-s Idiom**<br>Idiom<br>_Deyim_
