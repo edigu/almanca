@@ -21,6 +21,7 @@ direkt | direct | doğrudan
 -s Ende | End | Son
 -r Fall | Fall, Fallen | Düşmek
 -s Faul | Foul | Faul (Futbol)
+-e Feder | Feather | Tüy
 -s Feld | Field | Alan, tarla, arazi
 -s Fett | Fat | Yag
 -r Fisch | Fish | Balık
