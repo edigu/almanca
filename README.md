@@ -4,16 +4,18 @@ The lesson notes I have taken to learn the German language beginning from A1. I 
 ## das Alphabet
 ![German Alphabet](_assets/german_abc.gif)
 
-## Basic grammar
+## List of basic terms of Grammar
 
-Term | English Explanation
+Term | Definition in English
 --- | ---
 **-s Adjektiv**<br>Adjective<br>_Sıfat_ | A word or phrase naming an attribute, added to or grammatically related to a noun to modify or describe it.
-**-s Adjektivklausel**<br>Adjective clause<br>_Sıfat tamalaması_ | An adjective clause is simply a group of words with a subject and a verb that provide a description. The clause starts with a relative pronoun such as who, whom, whose, that, or which or a relative adverb such as when, where and why.
+**-s Adjektivklausel**<br>Adjective clause<br>_Sıfat tamlaması_ | An adjective clause is simply a group of words with a subject and a verb that provide a description. The clause starts with a relative pronoun such as who, whom, whose, that, or which or a relative adverb such as when, where and why.
 **-s Dativobjeckt**<br>Indirect object<br>_Dolaylı nesne_ | A noun phrase referring to someone or something that is affected by the action of a transitive verb (typically as a recipient), but is not the primary object (e.g., him in give him the book).
-**-s Hilfsverb**<br>Auxiliary verb<br>_Yardımcı Fiil_
+**-s Hilfsverb**<br>Auxiliary verb<br>_Yardımcı Fiil_ | A verb used in forming the tenses, moods, and voices of other verbs.
 **-s Idiom**<br>Idiom<br>_Deyim_
-**-e Nominalphrase**<br>Noun phrase<br>_İsim tamalaması_
+**-e Konjunktion**<br>Conjunction<br>_Bağlaç_ | Word used to connect clauses or sentences or to coordinate words in the same clause (e.g. and, but, if)
+***e Konjugation**<br>Conjugation<br>_Fiil çekimi_ | The variation of the form of a verb in an inflected language such as Latin, by which are identified the voice, mood, tense, number, and person.
+**-e Nominalphrase**<br>Noun phrase<br>_İsim tamlaması_ | A word or group of words that functions in a sentence as subject, object, or prepositional object.
 **-s Objekt**<br>Object<br>_Nesne_
 **-e Präposition**<br>Preposition<br>_Edat_
 **-e Präpositionalphrase**<br>Prepositional phrase<br>_Tamlama_
