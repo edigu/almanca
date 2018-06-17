@@ -17,9 +17,9 @@ Term | Definition in English
 ***e Konjugation**<br>Conjugation<br>_Fiil çekimi_ | The variation of the form of a verb in an inflected language such as Latin, by which are identified the voice, mood, tense, number, and person.
 **-e Nominalphrase**<br>Noun phrase<br>_İsim tamlaması_ | A word or group of words that functions in a sentence as subject, object, or prepositional object.
 **-s Objekt**<br>Object<br>_Nesne_
-**-e Präposition**<br>Preposition<br>_Edat_
+**-e Präposition**<br>Preposition<br>_Edat_ | A preposition is a word such as after, in, to, on, and with. Prepositions are usually used in front of nouns or pronouns and they show the relationship between the noun or pronoun and other words in a sentence.
 **-e Präpositionalphrase**<br>Prepositional phrase<br>_Tamlama_
-**-s Pronomen**<br>Pronouns<br>_Zamirler_
+**-s Pronomen**<br>Pronouns<br>_Zamirler_ | A word that can function as a noun phrase used by itself and that refers either to the participants in the discourse (e.g. I, you) or to someone or something mentioned elsewhere in the discourse (e.g. she, it, this).
 **-s Personenpronomen**<br>Personal Pronouns<br>_Kişi zamirleri_ | A personal pronoun is a pronoun that is associated primarily with a particular person, in the grammatical sense. The word “He” is an example of a personal pronoun. He is third person (because he is the person being spoken about), singular, and masculine. “We” is another example.
 **-s Prädikat**<br>Predicate<br>_Yüklem_ | The part of a sentence or clause containing a verb and stating something about the subject (e.g., went home in _John went home_).
 **-s Subjekt**<br>Subject<br>_Özne_ | The subject of a sentence is the person, place, thing, or idea that is doing or being something. You can find the subject of a sentence if you can find the verb. Ask the question, "Who or what 'verbs' or 'verbed'?" and the answer to that question is the subject.
