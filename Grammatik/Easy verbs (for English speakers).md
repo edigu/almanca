@@ -46,12 +46,12 @@ lang | long | _uzun_
 physik | physics | _fizik_
 pragmatische | pragmatic | _pragmatik_
 -s Präfix | prefix | _önek_
--s Semikolon | Semicolon | Noktalı virgül
--r Schwan | Swan | Kuğu
-signifikante | significant | önemli
-superb | superb | muhteşem
-transparent | transparent | şeffaf
-warm | warm | ısı
-warmen | to warm | ısıtmak
+-s Semikolon | Semicolon | _Noktalı virgül_
+-r Schwan | Swan | _Kuğu_
+signifikante | significant | _önemli_
+superb | superb | _muhteşem_
+transparent | transparent | _şeffaf_
+warm | warm | _ısı_
+warmen | to warm | _ısıtmak_
 
 https://en.wiktionary.org/wiki/Appendix:List_of_German_cognates_with_English
