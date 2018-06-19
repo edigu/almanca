@@ -9,3 +9,4 @@ Deutsch | English | Turkce
 **Das war's für heute** | That's all for today! | _Bugünlük bu kadar!_
 **Anzumerken wäre, dass..** | It should be noted that.. | _Şunu belirtmekte fayda var ki.._
 **So la la** | So so | _Eh işte (ne iyi ne kötü)_
+**gleichzeitig** | at the same time | _ayni zamanda/anda_
