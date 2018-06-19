@@ -6,45 +6,46 @@
 Verb | English | Türkçe
 --- | --- | ---
 -r Aal | Eel | Yılanbalığı
--r Amateur | Amateur | Amatör
-Akzeptanzkriterien | Acceptance criteras | Kabul kriterleri
--s Album | Album | Albüm
--r Asphalt | Asphalt | Asfalt
--r Bär | Bear | Ayı 
--s Bier | Beer | Bira
--e Blume | Bloom / Flower | Çiçek
--s Braun | Brown | Kahverengi
--e Brust | Breast | Göğüs
--e Butter | Butter | Tereyağı
-direkt | direct | doğrudan
--s Eis | Ice | Buz
--s Ende | End | Son
--r Fall | Fall, Fallen | Düşmek
--s Faul | Foul | Faul (Futbol)
--e Feder | Feather | Tüy
--s Feld | Field | Alan, tarla, arazi
--s Fett | Fat | Yag
--r Fisch | Fish | Balık
--s Fleisch | Meat (Flesh) | Et
--r Freund | Friend | Arkadaş
--r Fuchs | Fox | Tilki
-für | for | için
--s Gold | Gold | Altın
--s Gras | Grass | Çim, yeşillik
--s Grau | Grey | Gri 
--s Grün | Green | Yeşil
--s Haar | Hair | Saç
--r Hammer | Hammer | Çekiç
--e Hand | Hand | El
--s Haus | House, Home | Ev
-hängen | hang | asmak
--s Heu | Hay | Saman
--e Konvention | convention | sözleşme, gelenek
-lang | long | uzun
--e Methode | method | yöntem, metod
-physik | physics | fizik
-pragmatische | pragmatic | pragmatik
--s Präfix | prefix | önek
+-r Amateur | Amateur | _Amatör_
+Akzeptanzkriterien | Acceptance criteras | _Kabul kriterleri_
+-s Album | Album | _Albüm_
+-r Asphalt | Asphalt | _Asfalt_
+-r Bär | Bear | _Ayı_
+-s Bier | Beer | _Bira_
+-e Blume | Bloom / Flower | _Çiçek_
+-r Boulevard | Boulevard | _Bulvar_
+-s Braun | Brown | _Kahverengi_
+-e Brust | Breast | _Göğüs_
+-e Butter | Butter | _Tereyağı_
+direkt | direct | _doğrudan_
+-s Eis | Ice | _Buz_
+-s Ende | End | _Son_
+-r Fall | Fall, Fallen | _Düşmek_
+-s Faul | Foul | _Faul (Futbol)_
+-e Feder | Feather | _Tüy_
+-s Feld | Field | _Alan, tarla, arazi_
+-s Fett | Fat | _Yag_
+-r Fisch | Fish | _Balık_
+-s Fleisch | Meat (Flesh) | _Et_
+-r Freund | Friend | _Arkadaş_
+-r Fuchs | Fox | _Tilki_
+für | for | _için_
+-s Gold | Gold | _Altın_
+-s Gras | Grass | _Çim, yeşillik_
+-s Grau | Grey | _Gri_
+-s Grün | Green | _Yeşil_
+-s Haar | Hair | _Saç_
+-r Hammer | Hammer | _Çekiç_
+-e Hand | Hand | _El_
+-s Haus | House, Home | _Ev_
+hängen | hang | _asmak_
+-s Heu | Hay | _Saman_
+-e Konvention | convention | _sözleşme, gelenek_
+lang | long | _uzun_
+-e Methode | method | _yöntem, metod_
+physik | physics | _fizik_
+pragmatische | pragmatic | _pragmatik_
+-s Präfix | prefix | _önek_
 -s Semikolon | Semicolon | Noktalı virgül
 -r Schwan | Swan | Kuğu
 signifikante | significant | önemli
