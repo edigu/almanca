@@ -40,8 +40,10 @@ für | for | _için_
 -s Haus | House, Home | _Ev_
 hängen | hang | _asmak_
 -s Heu | Hay | _Saman_
+-e Karriere | carrier | _kariyer_
 -e Konvention | convention | _sözleşme, gelenek_
 lang | long | _uzun_
+-r Manager | manager | _yönetici_
 -e Methode | method | _yöntem, metod_
 physik | physics | _fizik_
 pragmatische | pragmatic | _pragmatik_
@@ -50,8 +52,10 @@ pragmatische | pragmatic | _pragmatik_
 -r Schwan | Swan | _Kuğu_
 signifikante | significant | _önemli_
 superb | superb | _muhteşem_
+-e Teamarbeit | teamwork | _takım çalışması_
 transparent | transparent | _şeffaf_
 warm | warm | _ısı_
 warmen | to warm | _ısıtmak_
+-r Werktag | workday | _işgünü_
 
 https://en.wiktionary.org/wiki/Appendix:List_of_German_cognates_with_English
