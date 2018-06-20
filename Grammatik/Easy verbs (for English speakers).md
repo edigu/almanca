@@ -45,6 +45,7 @@ hängen | hang | _asmak_
 lang | long | _uzun_
 -r Manager | manager | _yönetici_
 -e Methode | method | _yöntem, metod_
+-e Mutter | the mother | _anne_
 physik | physics | _fizik_
 pragmatische | pragmatic | _pragmatik_
 -s Präfix | prefix | _önek_
@@ -54,6 +55,7 @@ signifikante | significant | _önemli_
 superb | superb | _muhteşem_
 -e Teamarbeit | teamwork | _takım çalışması_
 transparent | transparent | _şeffaf_
+-r Vater | the father | _anne_
 warm | warm | _ısı_
 warmen | to warm | _ısıtmak_
 -r Werktag | workday | _işgünü_
