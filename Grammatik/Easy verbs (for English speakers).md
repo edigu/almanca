@@ -55,7 +55,7 @@ signifikante | significant | _önemli_
 superb | superb | _muhteşem_
 -e Teamarbeit | teamwork | _takım çalışması_
 transparent | transparent | _şeffaf_
--r Vater | the father | _anne_
+-r Vater | the father | _baba_
 warm | warm | _ısı_
 warmen | to warm | _ısıtmak_
 -r Werktag | workday | _işgünü_
