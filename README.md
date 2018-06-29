@@ -14,7 +14,7 @@ Term | Definition in English
 **-s Hilfsverb**<br>Auxiliary verb<br>_Yardımcı Fiil_ | A verb used in forming the tenses, moods, and voices of other verbs.
 **-s Idiom**<br>Idiom<br>_Deyim_
 **-e Konjunktion**<br>Conjunction<br>_Bağlaç_ | Word used to connect clauses or sentences or to coordinate words in the same clause (e.g. and, but, if)
-***e Konjugation**<br>Conjugation<br>_Fiil çekimi_ | The variation of the form of a verb in an inflected language such as Latin, by which are identified the voice, mood, tense, number, and person.
+**-e Konjugation**<br>Conjugation<br>_Fiil çekimi_ | The variation of the form of a verb in an inflected language such as Latin, by which are identified the voice, mood, tense, number, and person.
 **-e Nominalphrase**<br>Noun phrase<br>_İsim tamlaması_ | A word or group of words that functions in a sentence as subject, object, or prepositional object.
 **-s Objekt**<br>Object<br>_Nesne_
 **-e Präposition**<br>Preposition<br>_Edat_ | A preposition is a word such as after, in, to, on, and with. Prepositions are usually used in front of nouns or pronouns and they show the relationship between the noun or pronoun and other words in a sentence.
