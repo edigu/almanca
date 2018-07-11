@@ -6,6 +6,7 @@ Deutsch | English | Turkce
 **Das war's** | That's all! | _Bu kadar!_
 **Das war's für heute** | That's all for today! | _Bugünlük bu kadar!_
 **Genau** | Exactly, I agree | _Aynen, katılıyorum_
+**Ich glaube schon** | I think so | _Sanırım_
 **gleichzeitig** | at the same time | _ayni zamanda/anda_
 **keinen Grund** | no reason | _sebebi olmaksızın_
 **Los geht's** | Here we go! | _İşte gidiyoruz, hadi bakalım_
