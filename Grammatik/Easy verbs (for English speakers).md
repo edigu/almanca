@@ -46,6 +46,7 @@ lang | long | _uzun_
 -r Manager | manager | _yönetici_
 -e Methode | method | _yöntem, metod_
 -e Mutter | the mother | _anne_
+-r Ozean | the Ocean | _okyanus_
 physik | physics | _fizik_
 pragmatische | pragmatic | _pragmatik_
 -s Präfix | prefix | _önek_
