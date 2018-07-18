@@ -34,6 +34,7 @@ Kajak | Boat | Kayık, kano
 Panda | Panda | Panda
 Panzer | Panzer | Panzer
 politisch | political | politik
+-e Rampe | Ramp | Rampa
 -r Rentier | Reindeer | Ren geyiği
 Röntgen | X-ray | Röntgen
 -r Schalter | Circuit breaker | Şalter
