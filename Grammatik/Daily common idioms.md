@@ -11,5 +11,6 @@ Deutsch | English | Turkce
 **gleichzeitig** | at the same time | _ayni zamanda/anda_
 **keinen Grund** | no reason | _sebebi olmaksızın_
 **Los geht's** | Here we go! | _İşte gidiyoruz, hadi bakalım_
+**Oh mein Gott!** | Oh my God! | _Aman yarabbi!_
 **So la la** | So so | _Eh işte (ne iyi ne kötü)_
 **Soweit ich weiß** | As far as I know | _Bildiğim kadarıyla_
