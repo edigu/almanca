@@ -5,6 +5,7 @@ Deutsch | English | Turkce
 **Anzumerken wäre, dass..** | It should be noted that.. | _Şunu belirtmekte fayda var ki.._
 **Das war's** | That's all! | _Bu kadar!_
 **Das war's für heute** | That's all for today! | _Bugünlük bu kadar!_
+**Geht klar!** | That's okay! | Tamamdır!
 **Genau** | Exactly, I agree | _Aynen, katılıyorum_
 **Ich glaube schon** | I think so | _Sanırım_
 **gleichzeitig** | at the same time | _ayni zamanda/anda_
