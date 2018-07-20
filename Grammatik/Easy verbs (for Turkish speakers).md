@@ -28,6 +28,7 @@ genetisch | genetic | genetik
 -r Groschen | Penny | Kuruş
 kaputt | broken | bozuk, patlak, kaput
 Kajak | Boat | Kayık, kano
+-e Kastanie | Chestnut | Kestane
 -e Kultur | Culture | Kültür
 -r Laborant | laboratory | laborant
 -r Maschine | Machine | Makine
