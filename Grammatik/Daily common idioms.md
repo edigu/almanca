@@ -8,6 +8,7 @@ Deutsch | English | Turkce
 **Geht klar!** | That's okay! | Tamamdır!
 **Genau** | Exactly, I agree | _Aynen, katılıyorum_
 **Ich glaube schon** | I think so | _Sanırım_
+**Ich hoffe es geht dir gut** | I hope you are well | Umarım iyisindir
 **gleichzeitig** | at the same time | _ayni zamanda/anda_
 **keinen Grund** | no reason | _sebebi olmaksızın_
 **Kein problem** | No problem | _Sorun değil_
