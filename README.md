@@ -25,6 +25,7 @@ Term | Definition in English
 **-s Subjekt**<br>Subject<br>_Özne_ | The subject of a sentence is the person, place, thing, or idea that is doing or being something. You can find the subject of a sentence if you can find the verb. Ask the question, "Who or what 'verbs' or 'verbed'?" and the answer to that question is the subject.
 **-s Substantiv**<br>Noun<br>_İsim_ | A word (other than a pronoun) used to identify any of a class of people, places, or things, or to name a particular one of these (proper noun).
 **-s Verb**<br>Verb<br>_Fiil_ | A word used to describe an action, state, or occurrence, and forming the main part of the predicate of a sentence, such as hear, become, happen.
+**-r Zwischenruf**<br>Interjection<br>_Ünlem_ | <br>Interjection | In linguistics, an interjection is a word or expression that occurs as an utterance on its own and expresses a spontaneous feeling or reaction.
 
 
 ## Contribute
