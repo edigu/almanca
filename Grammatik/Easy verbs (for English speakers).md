@@ -43,6 +43,7 @@ hängen | hang | _asmak_
 -e Karriere | carrier | _kariyer_
 -e Konvention | convention | _sözleşme, gelenek_
 lang | long | _uzun_
+-s Limit | Limit | _Sınır, limit_
 -r Manager | manager | _yönetici_
 -e Methode | method | _yöntem, metod_
 -e Mutter | the mother | _anne_
