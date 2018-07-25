@@ -1,8 +1,9 @@
 ## Easy verbs for a native English speaker
-### İngilizce anlamı ile birbirine yakın fiiler
+### İngilizce anlamı ile birbirine yakın isim ve fiiler
 
 > Sorted alphabetically
 
+# A-K
 Verb | English | Türkçe
 --- | --- | ---
 -r Aal | Eel | Yılanbalığı
@@ -42,6 +43,10 @@ hängen | hang | _asmak_
 -s Heu | Hay | _Saman_
 -e Karriere | carrier | _kariyer_
 -e Konvention | convention | _sözleşme, gelenek_
+
+# L-Z
+Verb | English | Türkçe
+--- | --- | ---
 lang | long | _uzun_
 -s Limit | Limit | _Sınır, limit_
 -r Manager | manager | _yönetici_
@@ -61,5 +66,6 @@ transparent | transparent | _şeffaf_
 warm | warm | _ısı_
 warmen | to warm | _ısıtmak_
 -r Werktag | workday | _işgünü_
+
 
 https://en.wiktionary.org/wiki/Appendix:List_of_German_cognates_with_English
