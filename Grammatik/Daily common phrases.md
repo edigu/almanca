@@ -1,4 +1,4 @@
-## Daily common idioms
+## Daily common phrases
 
 Deutsch | English | Turkce
 --- | --- | ---
