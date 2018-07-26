@@ -1,6 +1,6 @@
 ## Daily common phrases
 
-Deutsch | English | Turkce
+Deutsch | English | Türkçe
 --- | --- | ---
 **Ach so! / Ach ja!** | Oh right! | _Ha şu mesele! / Şimdi anladım! / Tabi ya!_
 **Ach so schade!** | Oh so bad! | _Oo çok kötü olmuş!_
