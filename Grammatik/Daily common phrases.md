@@ -8,6 +8,7 @@ Deutsch | English | Türkçe
 **Das war's** | That's all! | _Bu kadar!_
 **Das war's für heute** | That's all for today! | _Bugünlük bu kadar!_
 **Geht klar!** | That's okay! | Tamamdır!
+**Gerne!** | with pleasure | _Rica ederim / ne demek_
 **Genau** | Exactly, I agree | _Aynen, katılıyorum_
 **Ich glaube schon** | I think so | _Sanırım_
 **Ich hoffe es geht dir gut** | I hope you are well | Umarım iyisindir
