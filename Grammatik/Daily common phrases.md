@@ -19,3 +19,4 @@ Deutsch | English | Türkçe
 **Oh mein Gott!** | Oh my God! | _Aman yarabbi!_
 **So la la** | So so | _Eh işte (ne iyi ne kötü)_
 **Soweit ich weiß** | As far as I know | _Bildiğim kadarıyla_
+**Von mir aus gerne!** | That's fine by me! | _Bana uyar!_
