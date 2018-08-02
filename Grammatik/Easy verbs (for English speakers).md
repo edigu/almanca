@@ -25,7 +25,7 @@ direkt | direct | _doğrudan_
 -s Faul | Foul | _Faul (Futbol)_
 -e Feder | Feather | _Tüy_
 -s Feld | Field | _Alan, tarla, arazi_
--s Fett | Fat | _Yag_
+-s Fett | Fat | _Yağ_
 -r Fisch | Fish | _Balık_
 -s Fleisch | Meat (Flesh) | _Et_
 -r Freund | Friend | _Arkadaş_
@@ -42,6 +42,7 @@ für | for | _için_
 hängen | hang | _asmak_
 -s Heu | Hay | _Saman_
 -e Karriere | carrier | _kariyer_
+-r Kompromiss | Compromise | _taviz, ödün vermek_
 -e Konvention | convention | _sözleşme, gelenek_
 
 # L-Z
