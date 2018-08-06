@@ -18,5 +18,6 @@ Deutsch | English | Türkçe
 **Los geht's** | Here we go! | _İşte gidiyoruz, hadi bakalım_
 **Oh mein Gott!** | Oh my God! | _Aman yarabbi!_
 **So la la** | So so | _Eh işte (ne iyi ne kötü)_
+**Sogar mehr** | even more.. | _dahası_
 **Soweit ich weiß** | As far as I know | _Bildiğim kadarıyla_
 **Von mir aus gerne!** | That's fine by me! | _Bana uyar!_
