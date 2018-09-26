@@ -12,6 +12,7 @@ Deutsch | English | Türkçe
 **Genau** | Exactly, I agree | _Aynen, katılıyorum_
 **Ich glaube schon** | I think so | _Sanırım_
 **Ich hoffe es geht dir gut** | I hope you are well | Umarım iyisindir
+**Ich kümmer mich drum** | I will do it! | _Ben halledeceğim/yapacağım_
 **gleichzeitig** | at the same time | _aynı zamanda/anda_
 **keinen Grund** | no reason | _sebebi olmaksızın_
 **Kein problem** | No problem | _Sorun değil_
