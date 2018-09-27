@@ -4,7 +4,7 @@ Deutsch | English | Türkçe
 --- | --- | ---
 **Aktualisieren** | Upgrade | _Güncelleme_
 **Abbrechen** | Abort/Cancel | _İptal / Vazgeç_
-**-e Bibliothek(en)** | Librar(y|ies) | _Kütüphane(ler)_
+**-e Bibliothek(en)** | Librar(y/ies) | _Kütüphane(ler)_
 **-s Dateisystem** | Filesystem | _Dosya sistemi_
 **Hinzufügen** | Add | _Ekle_
 **Implementierung** | Implementation | _Uygulamak_
