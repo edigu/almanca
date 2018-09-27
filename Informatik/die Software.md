@@ -4,7 +4,8 @@ Deutsch | English | Türkçe
 --- | --- | ---
 **Aktualisieren** | Upgrade | _Güncelleme_
 **Abbrechen** | Abort/Cancel | _İptal / Vazgeç_
-**Dateisystem, das** | Filesystem | _Dosya sistemi_
+**-e Bibliothek(en)** | Librar(y|ies) | _Kütüphane(ler)_
+**-s Dateisystem** | Filesystem | _Dosya sistemi_
 **Hinzufügen** | Add | _Ekle_
 **Implementierung** | Implementation | _Uygulamak_
 **Methodennamen** | Method names | _Fonksiyon isimleri_
