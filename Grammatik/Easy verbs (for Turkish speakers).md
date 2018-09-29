@@ -29,6 +29,8 @@ genetisch | genetic | genetik
 kaputt | broken | bozuk, patlak, kaput
 Kajak | Boat | Kayık, kano
 -e Kastanie | Chestnut | Kestane
+-r Komiker | Comic | komik
+komisch | funny | komik, gülünç
 -e Kultur | Culture | Kültür
 -r Laborant | laboratory | laborant
 -r Maschine | Machine | Makine
