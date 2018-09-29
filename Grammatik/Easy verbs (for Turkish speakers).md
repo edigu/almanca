@@ -1,5 +1,5 @@
-## Easy verbs for a native Turkish speaker
-### Türkçe anlamı ile birbirine yakın fiiler
+## Easy verbs for a native Turkish speakers
+### Türkçe anlamı ile birbirine yakın almanca isim ve fiiler
 
 > Sorted alphabetically
 
