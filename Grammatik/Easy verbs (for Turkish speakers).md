@@ -3,54 +3,54 @@
 
 > Sorted alphabetically
 
-Verb | English | Türkçe
+**Verb / Noun** | English | _Türkçe_
 --- | --- | ---
-Akupunktur | Acupuncture | Akupunktur
--e Autobahn | Highway | Otoban
--r Asphalt | Asphalt | Asfalt
--e Bakterie | Bacterium | bakteri
--s Balkon | balcony | balkon
--r Baron | baron | baron
--r Beton | Concrete, the | beton
--s Bier | Beer | Bira
-bitter | dark | bitter
--s Biskuit | biscuit | biskuvi
--r Dekan | Dean | Dekan
--r Diesel | Diesel | Dizel
--r Dozent | associate professor | doçent
--s Drama | Drama | Drama
--r Dusche | shower | duş
--s Element | Element | Element
--s Embargo | embargo | ambargo
--e Firma | Company | şirket (firma)
--r Fotografie | Photo | Fotoğraf
-genetisch | genetic | genetik
--r Groschen | Penny | Kuruş
-kaputt | broken | bozuk, patlak, kaput
-Kajak | Boat | Kayık, kano
--e Kastanie | Chestnut | Kestane
--r Komiker | Comic | komik
-komisch | funny | komik, gülünç
--e Kultur | Culture | Kültür
--r Laborant | laboratory | laborant
--r Maschine | Machine | Makine
-Panda | Panda | Panda
-Panzer | Panzer | Panzer
-politisch | political | politik
--e Rampe | Ramp | Rampa
--r Rentier | Reindeer | Ren geyiği
-Röntgen | X-ray | Röntgen
--r Schalter | Circuit breaker | Şalter
--r Schablone | Template | Şablon
--e Schokolade | chocolate | çikolata
--s Schleppschiff | Tow boat | şilep
-Schnitzel | schnitzel | Şinitzel
--r Schnorchel | Snorkel | Şnorkel
--e Techniker | technician | tekniker
--e Tomaten | tomato | domates
--r Vampir | Vampire | Vampir
--e Vaseline | Vaseline | Vazelin
--s Vokal | Vocal | Vokal
--r Walzer | waltz | Vals
--s Wermut | Vermouth | Vermut
--r Zeppelin | Zeppelin | Zeplin
+**Akupunktur** | Acupuncture | _Akupunktur_
+**-e Autobahn** | Highway | _Otoban_
+**-r Asphalt** | Asphalt | _Asfalt_
+**-e Bakterie** | Bacterium | _bakteri_
+**-s Balkon** | balcony | _balkon_
+**-r Baron** | baron | _baron_
+**-r Beton** | Concrete, the | _beton_
+**-s Bier** | Beer | _Bira_
+**bitter** | dark | _bitter_
+**-s Biskuit** | biscuit | _biskuvi_
+**-r Dekan** | Dean | _Dekan_
+**-r Diesel** | Diesel | _Dizel_
+**-r Dozent** | associate professor | _doçent_
+**-s Drama** | Drama | _Drama_
+**-r Dusche** | shower | _duş_
+**-s Element** | Element | _Element_
+**-s Embargo** | embargo | _ambargo_
+**-e Firma** | Company | _şirket (firma)_
+**-r Fotografie** | Photo | _Fotoğraf_
+**genetisch** | genetic | _genetik_
+**-r Groschen** | Penny | _Kuruş_
+**kaputt** | broken | _bozuk, patlak, kaput_
+**Kajak** | Boat | _Kayık, kano_
+**-e Kastanie** | Chestnut | _Kestane_
+**-r Komiker** | Comic | _komik_
+**komisch** | funny | _komik, gülünç_
+**-e Kultur** | Culture | _Kültür_
+**-r Laborant** | laboratory | _laborant_
+**-r Maschine** | Machine | _Makine_
+**Panda** | Panda | _Panda_
+**Panzer** | Panzer | _Panzer_
+**politisch** | political | _politik_
+**-e Rampe** | Ramp | _Rampa_
+**-r Rentier** | Reindeer | _Ren geyiği_
+**Röntgen** | X-ray | _Röntgen_
+**-r Schalter** | Circuit breaker | _Şalter_
+**-r Schablone** | Template | _Şablon_
+**-e Schokolade** | Chocolate | _çikolata_
+**-s Schleppschiff** | Tow boat | _şilep_
+**Schnitzel** | schnitzel | _Şinitzel_
+**-r Schnorchel** | Snorkel | _Şnorkel_
+**-e Techniker** | technician | _tekniker_
+**-e Tomaten** | tomato | _domates_
+**-r Vampir** | Vampire | _Vampir_
+**-e Vaseline** | Vaseline | _Vazelin_
+**-s Vokal** | Vocal | _Vokal_
+**-r Walzer** | waltz | _Vals_
+**-s Wermut** | Vermouth | _Vermut_
+**-r Zeppelin** | Zeppelin | _Zeplin_
