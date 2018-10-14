@@ -10,6 +10,7 @@ Deutsch | English | Türkçe
 **Geht klar!** | That's okay! | Tamamdır!
 **Gerne!** | with pleasure | _Rica ederim / ne demek_
 **Genau** | Exactly, I agree | _Aynen, katılıyorum_
+**Gut gemacht!** | Well done! | _Aferin!_
 **Gute Besserung** | Get well soon! | _Gecmiş olsun!_
 **Ich glaube schon** | I think so | _Sanırım_
 **Ich hoffe es geht dir gut** | I hope you are well | Umarım iyisindir
