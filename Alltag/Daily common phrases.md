@@ -7,6 +7,7 @@ Deutsch | English | Türkçe
 **Anzumerken wäre, dass..** | It should be noted that.. | _Şunu belirtmekte fayda var ki.._
 **Das war's** | That's all! | _Bu kadar!_
 **Das war's für heute** | That's all for today! | _Bugünlük bu kadar!_
+**Egal was passiert** | No matter what happens | _Ne olursa olsun_
 **Geht klar!** | That's okay! | Tamamdır!
 **Gerne!** | with pleasure | _Rica ederim / ne demek_
 **Genau** | Exactly, I agree | _Aynen, katılıyorum_
@@ -25,3 +26,4 @@ Deutsch | English | Türkçe
 **Sogar mehr** | even more.. | _dahası_
 **Soweit ich weiß** | As far as I know | _Bildiğim kadarıyla_
 **Von mir aus gerne!** | That's fine by me! | _Bana uyar!_
+**Was ist passiert?** | What happened? | _Ne oldu?_
