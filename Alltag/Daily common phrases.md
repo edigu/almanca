@@ -27,3 +27,4 @@ Deutsch | English | Türkçe
 **Soweit ich weiß** | As far as I know | _Bildiğim kadarıyla_
 **Von mir aus gerne!** | That's fine by me! | _Bana uyar!_
 **Was ist passiert?** | What happened? | _Ne oldu?_
+**Was ist los?** | What's happening? | _Ne oluyor?_
