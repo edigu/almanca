@@ -1,5 +1,5 @@
 ## Personalpronomen / Personal pronouns
-### Kişilik Zamirleri
+### Kişi Zamirleri
 
  - Genitiv kullanımı modern almancada azalarak bitme eğiliminde. Az kullanılıyor, en son öğrenmenin zararı yok ancak varlığından haberdar olunması, görünce şaşırılmamasında fayda var.
  - The accusative forms corresponds to nominative forms except the masculine forms in singular.<br>
