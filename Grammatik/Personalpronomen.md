@@ -2,6 +2,8 @@
 ### Kişilik Zamirleri
 
  - Genitiv kullanımı modern almancada azalarak bitme eğiliminde. Az kullanılıyor, en son öğrenmenin zararı yok ancak varlığından haberdar olunması, görünce şaşırılmamasında fayda var.
+ - The accusative forms corresponds to nominative forms except the masculine forms in singular.<br>
+  _Akusativ (ismin -i hali) form, tekil formdaki eril formlar dışında, nominativ formlarla aynıdır_
 
 NOMINATIV<br>Subject<br>**Yalın hali** | AKKUSATIV<br>Direct Object<br>_İsmin -i hali (gösterme)_ | DATIV<br>Indirect object<br>_İsmin -e hali (yönelme)_ | GENITIV<br>_İyelik eki<br>(Sahiplik, -in,im)_ | LOKATIV<br>Locative case<br>_İsmin -de hali (bulunma)_ | ABLATIV<br>Ablative case<br>İsmin -den hali (ayrılma)
 --- | --- | --- | --- | --- | ---
