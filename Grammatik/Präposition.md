@@ -10,12 +10,12 @@ Deutsch | Followed by | English | Türkçe | Beispiel
 **durch** | Akkusative | through | _vasıtasıyla_ / _sayesinde_ | *
 **etlang** | Akkusative | along | _boyunca_ | *
 **für** | Akkusative | for | _için_ | *
+**gegen** | Akkusative | against / opposite | _karşı_ / _tersi_ | *
+**gegenüber** | - | across from / opposite (people, land) | _nispetle_ / _kıyasla_ | *
 **hinter** | - | behind | _ardında_ | *
 **in** | - | in | _içinde_ / _iç_ | *
 **nach** | - | to / after | _-a kadar _ / _bir yere/yöne_ | *
 **neben** | - | next to | _yanında_ / _tarafında_ / _bitişiğinde_ | *
-**gegen** | Akkusative | against / opposite | _karşı_ / _tersi_ | *
-**gegenüber** | - | across from / opposite (people, land) | _nispetle_ / _kıyasla_ | *
 **ohne** | Akkusative | without | _siz/suz (Tuzsuz/Renksiz)_ | *
 **um** | Akkusative | around | _civarında_ | *
 **unter** | - | under | _altında_ | *
