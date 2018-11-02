@@ -1,6 +1,6 @@
 ## Präposition / Edatlar
 
-Deutsch | Followed by | English | Türkçe | Beispiel
+Deutsch | Case | English | Türkçe | Beispiel
 --- | --- | --- | --- | ---
 **an** | - | on / at | _bellirli bir konum_ | *
 **auf** | - | on top of | _üzerinde_ / _üzerinden_ | *
