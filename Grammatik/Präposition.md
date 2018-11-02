@@ -25,6 +25,6 @@ Deutsch | Case | English | Türkçe | Beispiel
 **zu** | - | to / too | _bellirli bir ana_ / _zamana_ / _yere_ | *
 **zwischen** | - | between | _arasında_ | *
 
- > **A** : Akkusativ
- > **D** : Dativ
- > **N** : Nominativ
+ > **A** : Akkusativ<br>
+ > **D** : Dativ<br>
+ > **N** : Nominativ<br>
