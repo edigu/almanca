@@ -1,5 +1,8 @@
 ## Präposition / Edatlar
 
+ - Prepositions are the auxiliary words that establish meaning relation between different types of words. In German, the prepositions can be found in different cases of the name.
+ - _Edatlar farklı türdeki sözcükler arasında anlam ilişkisi kuran yardımcı sözcüklerdir. Almanca’da edatlar ismin farklı hallerinde bulunabilirler._
+
 Deutsch | Case | English | Türkçe | Beispiel
 --- | --- | --- | --- | ---
 **ab** | D | * | * | *
