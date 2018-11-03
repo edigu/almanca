@@ -6,8 +6,8 @@
 Deutsch | Case | English | Türkçe | Beispiel
 --- | --- | --- | --- | ---
 **ab** | D | * | * | *
-**an** | A & D | on / at | _bellirli bir konum_ / _-de,-da_ | *
-**auf** | A & D | on top of | _üzerinde_ / _üzerinden_ | *
+**an** | A & D | on / at | _bellirli bir konum_ / _-de,-da_ | **Das Bild hängt an der Wand**<br>The picture hangs on the wall<br>_Resim duvarda asılı_
+**auf** | A & D | on top of | _üzerinde_ / _üzerinden_ | **Ich lege die Flasche auf den Tisch**<br>I put the bottle on the table<br>_Ben şişeyi masanın üzerine koyuyorum_
 **aus** | D | out of | _-den,-dan_ / _dıştan_ | **Ich komme aus dem Büro**<br>I am coming out of the office<br>_Ofisten geliyorum_
 **bei** | - | at | _bir yerde_ | *
 **bis** | A | till / until | _-e kadar_ | **Bis jetzt**<br>Up to now<br>_Şimdiye kadar_
