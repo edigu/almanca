@@ -24,7 +24,7 @@ Präposition | Case | Beispiel
 **mit**<br>with<br>_-li, -lı, -lu_ | D |*
 **nach**<br>to / after<br>_-a kadar _ / _bir yere/yöne_ | - | *
 **neben**<br>next to<br>_yanında_ / _tarafında_ / _bitişiğinde_ | A & D| *
-**ohne**<br>without<br>_siz/suz (Tuzsuz/Renksiz)_ | A | *
+**ohne**<br>without<br>_siz/suz (Tuzsuz/Renksiz)_ | A | **Trinkst du deinen Kaffee ohne Milch?**<br>Do you drink your coffee without milk?<br>_Sen kahveni sütsüz mü içiyorsun?_
 **seit**<br>since<br>_-den,-dan beri_ | D | **Seit wann leben Sie in Hamburg?**<br>Since when do you live in Hamburg?<br>_Ne zamandan beri Hamburg’da yaşıyorsunuz?_
 **um**<br>around<br>_civarında_ | A | *
 **unter**<br>under<br>_altında_ | A & D | *
