@@ -5,7 +5,7 @@ Deutsch | Case | English | Türkçe | Beispiel
 **ab** | D | * | * | *
 **an** | - | on / at | _bellirli bir konum_ | *
 **auf** | - | on top of | _üzerinde_ / _üzerinden_ | *
-**aus** | D | out of | _dışında_ / _dış_ | *
+**aus** | D | out of | _-den,-dan_ / _dıştan_ | **Ich komme aus dem Büro**<br>I am coming out of the office<br>_Ofisten geliyorum_
 **bei** | - | at | _bir yerde_ | *
 **bis** | A | till / until | _-e kadar_ | **Bis jetzt**<br>Up to now<br>_Şimdiye kadar_
 **bis zu** | D | till / until | _-e kadar_ | **Bis jetzt**<br>Up to now<br>_Şimdiye kadar_
@@ -24,7 +24,7 @@ Deutsch | Case | English | Türkçe | Beispiel
 **um** | A | around | _civarında_ | *
 **unter** | - | under | _altında_ | *
 **über** | - | above / over | _tepeden_ / _yukarıdan_ | *
-**von** | D | from / of | _itibaren_ / _..den_ | *
+**von** | D | from / of | _itibaren_ / _-den,-dan_ | **Ich komme von meinem Bruder**<br>I am coming from my brother<br>_Kardeşimden geliyorum_
 **vor** | - | in front of | _önünden_ / _önünde_ | *
 **zu** | D | to / too | _bellirli bir an_ / _zaman_ / _yer_ | *
 **zwischen** | - | between | _arasında_ | *
