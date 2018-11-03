@@ -14,7 +14,7 @@ Präposition | Case | Beispiel
 **bei**<br>at<br>_bir yerde_ | - | *
 **bis**<br>till / until<br>_-e kadar_ | A | **Bis jetzt**<br>Up to now<br>_Şimdiye kadar_
 **bis zu**<br>till / until<br>_-e kadar_ | D | **Bis jetzt**<br>Up to now<br>_Şimdiye kadar_
-**durch**<br>through<br>_vasıtasıyla_ / _sayesinde_  | A | *
+**durch**<br>through<br>_vasıtasıyla_ / _içinden_  | A | **Ich fahre durch den Park**<br>I drive through the park<br>_Ben parkın içinden sürüyorum (araçla geçiyorum)_
 **etlang**<br>along<br>_boyunca_ | A | *
 **für**<br>for<br>_için_ | A | *
 **gegen**<br>against / opposite<br>_karşı_ / _tersi_ | A | **Ich bin gegen den Vorschlag**<br>I am against the suggestion<br>_Ben bu öneriye katılmıyorum_
@@ -25,7 +25,7 @@ Präposition | Case | Beispiel
 **nach**<br>to / after<br>_-a kadar _ / _bir yere/yöne_ | - | *
 **neben**<br>next to<br>_yanında_ / _tarafında_ / _bitişiğinde_ | A & D| *
 **ohne**<br>without<br>_siz/suz (Tuzsuz/Renksiz)_ | A | *
-**seit**<br>since<br>_-den,-dan beri_ | D | *
+**seit**<br>since<br>_-den,-dan beri_ | D | **Seit wann leben Sie in Hamburg?**<br>Since when do you live in Hamburg?<br>_Ne zamandan beri Hamburg’da yaşıyorsunuz?_
 **um**<br>around<br>_civarında_ | A | *
 **unter**<br>under<br>_altında_ | A & D | *
 **über**<br>above / over<br>_tepeden_ / _yukarıdan_ / _üzerinde_ | A & D | *
@@ -42,8 +42,11 @@ Präposition | Case | Beispiel
  
  Long form | Short form | Beispiel / Example
  --- | --- | ---
- an dem | am | *
+ an/auf dem | am | *
+ an das | ans | *
+ bei dem | beim | *
  in dem | im | *
+ in das | ins | *
  von dem | vom | **vom erste Oktober**<br>from the beginning of October<br>_Ekim'in başından itibaren_
  zu der | zur | *
  zu dem | zum
