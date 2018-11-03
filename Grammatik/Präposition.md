@@ -7,8 +7,10 @@ Präposition | Case | Beispiel
 --- | --- | ---
 **ab** | D | * | * | *
 **an**<br>on / at<br>_bellirli bir konum_ / _-de,-da_ | A & D | **Das Bild hängt an der Wand**<br>The picture hangs on the wall<br>_Resim duvarda asılı_
+**anstatt**<br>instead of<br>_yerine_ | G | **Kann ich anstatt Pommes mehr Salat haben?**<br>Can I have more salad instead of french fries?<br>_Patates kızartması yerine daha çok salata alabilir miyim?_
 **auf**<br>on top of<br>_üzerinde_ / _üzerinden_ | A & D | **Ich lege die Flasche auf den Tisch**<br>I put the bottle on the table<br>_Ben şişeyi masanın üzerine koyuyorum_
 **aus**<br>out of<br>_-den,-dan_ / _dıştan_ | D | **Ich komme aus dem Büro**<br>I am coming out of the office<br>_Ofisten geliyorum_
+**außerhalb**<br>outside of<br>_haricinde/dışında_ | G | **Ein Leben außerhalb von München ist möglich aber sinnlos**<br>A life outside of Munich is possible but meaningless<br>_Münih dışında bir hayat mümkün fakat anlamsız_
 **bei**<br>at<br>_bir yerde_ | - | *
 **bis**<br>till / until<br>_-e kadar_ | A | **Bis jetzt**<br>Up to now<br>_Şimdiye kadar_
 **bis zu**<br>till / until<br>_-e kadar_ | D | **Bis jetzt**<br>Up to now<br>_Şimdiye kadar_
@@ -29,9 +31,19 @@ Präposition | Case | Beispiel
 **über**<br>above / over<br>_tepeden_ / _yukarıdan_ / _üzerinde_ | A & D | *
 **von**<br>from / of<br> _itibaren_ / _-den,-dan_ | D | **Ich komme von meinem Bruder**<br>I am coming from my brother<br>_Kardeşimden geliyorum_
 **vor**<br>in front of<br>_önünden_ / _önünde_ | A & D | *
+**wegen**<br>because of<br>_dolayı_ | G | **Ich muss wegen des schlechten Wetters zu Hause bleiben**<br>I have to stay home because of the bad weather<br>_Kötü havadan dolayı evde durmak zorundayım_
 **zu**<br>to / too<br>_bellirli bir an_ / _zaman_ / _yer_ | D | *
 **zwischen**<br>between<br>_arasında_ | A & D | *
 
  > **A** : Akkusativ<br>
  > **D** : Dativ<br>
  > **N** : Nominativ<br>
+ > **G** : Genitiv
+ 
+ Long form | Short form | Beispiel / Example
+ --- | --- | ---
+ an dem | am | *
+ in dem | im | *
+ von dem | vom | **vom erste Oktober**<br>from the beginning of October<br>_Ekim'in başından itibaren_
+ zu der | zur | *
+ zu dem | zum
