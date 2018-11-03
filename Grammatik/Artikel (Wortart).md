@@ -17,12 +17,12 @@ Nominativ | Akusativ | Dativ | Genitiv
 
 Nominativ | Akusativ | Dativ | Genitiv
 --- | --- | --- | ---
-**der große Mann**<br>the tall man<br>_uzun boylu adam_ | den großen Mann | - | -
-**die große Frau**<br>the tall woman<br>_uzun boylu kadin_ | die große Frau | - | -
-**das große Kind**<br>the tall child<br>_uzun boylu cocuk_ | das große Kind | - | -
-**die großen Männer**<br>the tall men<br>_uzun boylu adamlar_ | die großen Männer | - | -
-**die großen Frauen**<br>the tall women<br>_uzun boylu kadinlar_ | die großen Frauen | - | -
-**die großen Kinder**<br>the tall children<br>_uzun boylu cocuklar_ | die großen Kinder | - | -
+**der große Mann**<br>the tall man<br>_uzun boylu adam_ | **den großen Mann** | **dem großen Mann**<br>to the tall man<br>_uzun boylu adama_ | -
+**die große Frau**<br>the tall woman<br>_uzun boylu kadin_ | **die große Frau** | **der großen Frau**<br>to the tall woman<br>_uzun boylu kadına_ | -
+**das große Kind**<br>the tall child<br>_uzun boylu çocuk_ | das große Kind | **dem großen Kind**<br>to the tall child<br>_uzun boylu çocuğa_ | -
+**die großen Männer**<br>the tall men<br>_uzun boylu adamlar_ | die großen Männer | **den großen Männern**<br>to the tall men<br>_uzun boylu adamlara_ | -
+**die großen Frauen**<br>the tall women<br>_uzun boylu kadinlar_ | die großen Frauen | **den großen Frauen**<br>to the tall women<br>_uzun boylu kadınlara_ | -
+**die großen Kinder**<br>the tall children<br>_uzun boylu cocuklar_ | die großen Kinder | **den großen Kindern**<br>to the tall children<br>_uzun boylu çocuklara_ | -
 
 
 
@@ -43,9 +43,9 @@ The same endings are used for the negative indefinite article-like word (kein-),
 
 Nominativ | Akusativ | Dativ | Genitiv
 --- | --- | --- | ---
-**ein großer Mann**<br>a tall man<br>_uzun boylu bir adam_ | einen großen Mann | - | -
-**eine große Frau**<br>a tall woman<br>_uzun boylu bir kadin_ | eine große Frau | - | -
-**ein großes Kind**<br>a tall child<br>_uzun boylu bir cocuk_ | ein großes Kind | - | -
+**ein großer Mann**<br>a tall man<br>_uzun boylu bir adam_ | einen großen Mann | **einem großen Mann**<br>to a tall man<br>_uzun boylu bir adama_ | -
+**eine große Frau**<br>a tall woman<br>_uzun boylu bir kadın_ | eine große Frau | **einer großen Frau**<br>to a tall woman<br>_uzun boylu bir kadına_ | -
+**ein großes Kind**<br>a tall child<br>_uzun boylu bir çocuk_ | ein großes Kind | **einem großen Kind**<br>to a tall child<br>_uzun boylu bir çocuğa_ | -
 
 #### Rule of thumbs
  - das and ein always indicate singular.
