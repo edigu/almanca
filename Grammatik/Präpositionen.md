@@ -1,4 +1,4 @@
-## Präposition / Edatlar
+## Präpositionen / Prepositions / Edatlar
 
  - Prepositions are the auxiliary words that establish meaning relation between different types of words. In German, the prepositions can be found in different cases of the name.
  - _Edatlar farklı türdeki sözcükler arasında anlam ilişkisi kuran yardımcı sözcüklerdir. Almanca’da edatlar ismin farklı hallerinde bulunabilirler._
@@ -27,10 +27,10 @@ Präposition | Case | Beispiel
 **ohne**<br>without<br>_siz/suz (Tuzsuz/Renksiz)_ | A | **Trinkst du deinen Kaffee ohne Milch?**<br>Do you drink your coffee without milk?<br>_Sen kahveni sütsüz mü içiyorsun?_
 **seit**<br>since<br>_-den,-dan beri_ | D | **Seit wann leben Sie in Hamburg?**<br>Since when do you live in Hamburg?<br>_Ne zamandan beri Hamburg’da yaşıyorsunuz?_
 **um**<br>around<br>_civarında_ | A | *
-**unter**<br>under<br>_altında_ | A & D | *
+**unter**<br>under / below<br>_altında_ | A & D | *
 **über**<br>above / over<br>_tepeden_ / _yukarıdan_ / _üzerinde_ | A & D | *
 **von**<br>from / of<br> _itibaren_ / _-den,-dan_ | D | **Ich komme von meinem Bruder**<br>I am coming from my brother<br>_Kardeşimden geliyorum_
-**vor**<br>in front of<br>_önünden_ / _önünde_ | A & D | *
+**vor**<br>in front of / before<br>_önünden_ / _önünde_ | A & D | *
 **wegen**<br>because of<br>_dolayı_ | G | **Ich muss wegen des schlechten Wetters zu Hause bleiben**<br>I have to stay home because of the bad weather<br>_Kötü havadan dolayı evde durmak zorundayım_
 **zu**<br>to / too<br>_bellirli bir an_ / _zaman_ / _yer_ | D | *
 **zwischen**<br>between<br>_arasında_ | A & D | *
@@ -39,14 +39,28 @@ Präposition | Case | Beispiel
  > **D** : Dativ<br>
  > **N** : Nominativ<br>
  > **G** : Genitiv
+ > **A & D** :  Wechselpräpositionen (See below)<br>
  
  Long form | Short form | Beispiel / Example
  --- | --- | ---
  an/auf dem | am | *
  an das | ans | *
  bei dem | beim | *
- in dem | im | *
+ in dem | im | **Ich bin im (in dem) Garten**<br>I am in the garden<br>_Bahçedeyim (bir hareket yok, dativ)_
  in das | ins | *
- von dem | vom | **vom erste Oktober**<br>from the beginning of October<br>_Ekim'in başından itibaren_
+ von dem | vom | **vom (von dem) erste Oktober**<br>from the beginning of October<br>_Ekim'in başından itibaren_
  zu der | zur | *
  zu dem | zum
+
+## Wechselpräpositionen / Prepositions of change
+ - The case of the declined word after one of these prerpositions can change (akkustiv or dativ)
+ - The verb in the sentece determines the case of the declined word after the position.
+ - Verb which implies a MOVEMENT -> **accusative**
+ - Verb which implies a CONDITION -> **dativ**
+ - Question for the adverbial phrase: **Wohin?** (Where to) -> **accusative**
+ - Question for the adverbial phrase: **Wo?** (Where) -> **dativ**
+
+Präposition | Akkusativ Beispiel<br>MOVEMENT<br>_Hareket_ | Dativ Beispiel<br>CONTITION<br>_Bulunma_ | Warum<br>Why?<br>_Neden_
+--- | --- | --- | ---
+**in**<br>in<br>_içinde_ / _iç_ | **Ich gehe in den Garten**<br>I go into the garden<br>_Bahçeye gidiyorum_ | **Ich bin im (in dem) Garten**<br>I am in the garden<br>_Bahçedeyim_ | gehen (to go) involves movement
+**hinter**<br>behind<br>_arkasında_ | **Ich setlle mich hinter die Tür**<br>I get behind the door<br>_Kapının arkasına geçiyorum_ | **Ich stehe hinter der Tür**<br>I am standing behind the door<br>_Kapının arkasında duruyorum_ | die Tür (Nom. and Aku.) -> der Tür (Dative)<br>stelle -> Reflexive verb (go and stand somewhere)
