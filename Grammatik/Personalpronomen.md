@@ -18,7 +18,7 @@ NOMINATIV<br>Subject<br>**Yalın hali** | AKKUSATIV<br>Direct Object<br>_İsmin 
 
 ## Plural
 NOMINATIV<br>Subject<br>**Yalın hali** | AKKUSATIV<br>Direct Object<br>_İsmin -i hali (gösterme)_ | DATIV<br>Indirect object<br>_İsmin -e hali (yönelme)_ | GENITIV<br>_İyelik eki<br>(Sahiplik, -in,im)_
---- | --- | --- | --- | --- | ---
+--- | --- | --- | ---
 **wir**<br>we (1st)<br>_biz_ | **uns**<br>us<br>_bizi_ | **uns**<br>us / to us<br>_bize_ | **unser**<br>of us<br>_bizim_
 **ihr**<br>you (2nd, familiar)<br>_sizler_ | **euch**<br>you<br>_sizleri_ | **euch**<br>you / to you<br>_sizlere_ | **euer**<br>yours<br>sizlerin
 **sie**<br>they (3rd)<br>_onlar_ | **sie**<br>them<br>_onları_ | **ihnen**<br>them / to them<br>_onlara_ | **ihrer**<br>of their<br>_onların_
