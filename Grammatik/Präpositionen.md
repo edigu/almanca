@@ -33,7 +33,7 @@ Präposition | Case | Beispiel
 **vor**<br>in front of / before<br>_önünden_ / _önünde_ | A & D | *
 **wegen**<br>because of<br>_dolayı_ | G | **Ich muss wegen des schlechten Wetters zu Hause bleiben**<br>I have to stay home because of the bad weather<br>_Kötü havadan dolayı evde durmak zorundayım_
 **zu**<br>to / too<br>_bellirli bir an_ / _zaman_ / _yer_ | D | *
-**zwischen**<br>between<br>_arasında_ | A & D | *
+**zwischen**<br>between<br>_arasında_ | A & D | **Ich stehe zwischen ihm und ihr**<br>I am standing between him and her<br>_İkisinin (bir kız ve erkek) arasında duruyorum_
 
  > **A** : Akkusativ<br>
  > **D** : Dativ<br>
