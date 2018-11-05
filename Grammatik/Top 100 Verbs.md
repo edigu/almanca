@@ -74,11 +74,11 @@ No | Verb | English | Türkçe | Beispiel / Example
 68 | **erreichen** | to achieve / reach | xx |
 69 | **tragen** | to carry / wear | xx |
 70 | **schaffen** | to manage / create | xx |
-71 | **lesen** | to read | xx |
+71 | **lesen** | to read | okumak | **Ich lese die Zeitung**<br>I am reading the newspaper<br>_Gazeteyi okuyorum_
 72 | **verlieren** | to lose | xx |
 73 | **dar·stellen** | to depict / portray | xx |
 74 | **erkennen** | to recognize / admit | xx |
-75 | **entwickeln** | to develop | xx |
+75 | **entwickeln** | to develop | gelistirmek | **Wir müssen dafür ein neues Konzept entwickeln**<br>We have to develop a new concept for this<br>_Bunun için yeni bir konsept geliştirmeliyiz_
 76 | **reden** | to talk | xx |
 77 | **aus·sehen** | to appear / look (a certain way) | xx |
 78 | **erscheinen** | to appear | xx |
