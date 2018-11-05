@@ -89,8 +89,8 @@ No | Verb | English | Türkçe | Beispiel / Example
 83 | **betreffen** | to affect / concern | xx |
 84 | **warten** | to wait | xx |
 85 | **vergehen** | to elapse; to decay | xx |
-86 | **helfen** | to help | yardım etmek | **Brauchst du Hilfe?**<br>Do you need help?<br>Yardıma ihtiyacın var mı?
-87 | **gewinnen** | to win | xx |
+86 | **helfen** | to help | yardım etmek | **Brauchst du Hilfe?**<br>Do you need help?<br>_Yardıma ihtiyacın var mı?_
+87 | **gewinnen** | to win | kazanmak | **Sie haben das Spiel gewonnen!**<br>They won the game!<br>_Oyunu kazandılar!_
 88 | **schließen** | to close | xx |
 89 | **fühlen** | to feel | xx |
 90 | **bieten** | to offer | xx |
