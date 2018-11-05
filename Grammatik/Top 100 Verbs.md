@@ -78,7 +78,7 @@ No | Verb | English | Türkçe | Beispiel / Example
 72 | **verlieren** | to lose | xx |
 73 | **dar·stellen** | to depict / portray | xx |
 74 | **erkennen** | to recognize / admit | xx |
-75 | **entwickeln** | to develop | gelistirmek | **Wir müssen dafür ein neues Konzept entwickeln**<br>We have to develop a new concept for this<br>_Bunun için yeni bir konsept geliştirmeliyiz_
+75 | **entwickeln** | to develop | geliştirmek | **Wir müssen dafür ein neues Konzept entwickeln**<br>We have to develop a new concept for this<br>_Bunun için yeni bir konsept geliştirmeliyiz_
 76 | **reden** | to talk | xx |
 77 | **aus·sehen** | to appear / look (a certain way) | xx |
 78 | **erscheinen** | to appear | xx |
@@ -89,7 +89,7 @@ No | Verb | English | Türkçe | Beispiel / Example
 83 | **betreffen** | to affect / concern | xx |
 84 | **warten** | to wait | xx |
 85 | **vergehen** | to elapse; to decay | xx |
-86 | **helfen** | to help | xx |
+86 | **helfen** | to help | yardım etmek | **Brauchst du Hilfe?**<br>Do you need help?<br>Yardıma ihtiyacın var mı?
 87 | **gewinnen** | to win | xx |
 88 | **schließen** | to close | xx |
 89 | **fühlen** | to feel | xx |
