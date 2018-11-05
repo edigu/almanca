@@ -91,7 +91,7 @@ No | Verb | English | Türkçe | Beispiel / Example
 85 | **vergehen** | to elapse; to decay | xx |
 86 | **helfen** | to help | yardım etmek | **Brauchst du Hilfe?**<br>Do you need help?<br>_Yardıma ihtiyacın var mı?_
 87 | **gewinnen** | to win | kazanmak | **Sie haben das Spiel gewonnen!**<br>They won the game!<br>_Oyunu kazandılar!_
-88 | **schließen** | to close | xx |
+88 | **schließen** | to close | kapatmak | **Bitte schließe das Fenster!**<br>Please close the window!<br>_Lütfen pencereyi kapat!_
 89 | **fühlen** | to feel | xx |
 90 | **bieten** | to offer | xx |
 91 | **interessierento** | interest  | xx |
