@@ -22,9 +22,7 @@ Colloquial | Formal | Beispiel
 **Kaputt** | **der Schaden**<br>the damage<br>_hasar (hasarın kendisi)_ |
 **Kaputt** | **die Schäden**<br>the damages<br>_hasarlar_ |
 **kaputtgehen** | to go broke<br>_kırılmak / bozulmak_ | **Meine Waschmaschine ist kaputtgegangen**<br>My washing machine has gone kaput<br>_Çamaşır makinem bozuldu_
- " | " | **Der Pullover geht kaputt**<br>The pullover goes kaput<br>_Bu kazak (artık) eskidi / delik deşik oldu_
 **kaputtmachen** | to break / to destroy<br>_kırmak / parçalamak_ | **Du hast deine Brille kaputtgemacht**<br>You have broken your glasess<br>_Gözlüklerini kırdın_
- " | " | **Meine Pflanzen sind durch den Frost kaputt gegangen**<br>My plants went/have gone die because of the frost.<br>_Bitkilerim soğuk havadan dolayı öldü_
  **etwas kaputtkriegen** | to break / to ruin something<br>_ bir şeyi bozmak / kırmak_ | **Hast to es endlich kaputtgekriegt?**<br>Did you finally break/ruin it?<br>_En sonunda kırdın değil mi onu?_
  **ein Auto Kaputtfahren** | to write off a car<br>_bir arabayı hurdaya çıkarmak_ | **Sie hat sein Auto kaputtgefahren**<br>She wrote/has written off his car<br>_O (kadın) arabasını pert etti (hurdaya çıkardı)_
  **sich kaputtlachen** | to laugh oneself silly<br>_kendini komik duruma düşürmek_ | **Ich lache mich kaputt!**<br>Laughing my head off!<br>_Kendime (yaptığım salaklığa) gülüyorum_
@@ -37,3 +35,5 @@ Deutsch | English | _Türkçe_
 **Seine Firma ging kaputt** | His company/business went financially ruined | _Onun şirketi battı/iflas etti_
 **Nach dem Spaziergang war mein Hund total kaputt!** | After the walk, my dog was completely shattered | _Yürüyüşten sonra köpeğim aşırı yoruldu / paket oldu_
 **Die Freundschaft/Partnerschaft ging kaputt** | The friendship/partnership is over | _Arkadaşlık/ortaklık bitti (ayrılık var)_
+**Der Pullover geht kaputt** | The pullover goes kaput | _Bu kazak (artık) eskidi / delik deşik oldu_
+**Meine Pflanzen sind durch den Frost kaputt gegangen** | My plants went/have gone die because of the frost | _Bitkilerim soğuk havadan dolayı öldü_
