@@ -7,9 +7,9 @@
 
   1. Not working / Damaged (broken, torn, burned, frozen/frosted, broken up)  
      _Bozuk, patlak, çalışmayan, hasarlı_
-  2. Ruined (financially / economically)
+  2. Ruined (financially / economically)  
      _Maddi yetersizlik, çaresizlik, beş paralık olma_
-  3. Exhausted (physically)
+  3. Exhausted (physically)  
      _Fiziksel olarak aşırı yorulma, tükenme, halsiz kalma_
 
 > Kaputt is used as a predicative adjective (stands after the verb and not before the noun)  
