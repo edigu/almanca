@@ -48,6 +48,7 @@ hängen | hang | _asmak_
 # L-Z
 Verb | English | Türkçe
 --- | --- | ---
+-r Kran | Crane | _Vinc_
 lang | long | _uzun_
 -s Limit | Limit | _Sınır, limit_
 -r Manager | manager | _yönetici_
@@ -57,6 +58,7 @@ lang | long | _uzun_
 physik | physics | _fizik_
 pragmatische | pragmatic | _pragmatik_
 -s Präfix | prefix | _önek_
+-s Rot | Red | _Kırmızı_
 -s Semikolon | Semicolon | _Noktalı virgül_
 -r Schwan | Swan | _Kuğu_
 signifikante | significant | _önemli_
