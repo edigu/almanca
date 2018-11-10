@@ -10,8 +10,9 @@ Präposition | Case | Beispiel
 **anstatt**<br>instead of<br>_yerine_ | G | **Kann ich anstatt Pommes mehr Salat haben?**<br>Can I have more salad instead of french fries?<br>_Patates kızartması yerine daha çok salata alabilir miyim?_
 **auf**<br>on top of<br>_üzerinde_ / _üzerinden_ | A & D | **Ich lege die Flasche auf den Tisch**<br>I put the bottle on the table<br>_Ben şişeyi masanın üzerine koyuyorum_
 **aus**<br>out of<br>_-den,-dan_ / _dıştan_ | D | **Ich komme aus dem Büro**<br>I am coming out of the office<br>_Ofisten geliyorum_
+**außer**<br>except<br>_hariç_ / | D | *
 **außerhalb**<br>outside of<br>_haricinde/dışında_ | G | **Ein Leben außerhalb von München ist möglich aber sinnlos**<br>A life outside of Munich is possible but meaningless<br>_Münih dışında bir hayat mümkün fakat anlamsız_
-**bei**<br>at<br>_bir yerde_ | - | *
+**bei**<br>at<br>_bir yerde_ | D | *
 **bis**<br>till / until<br>_-e kadar_ | A | **Bis jetzt**<br>Up to now<br>_Şimdiye kadar_
 **bis zu**<br>till / until<br>_-e kadar_ | D | **Bis jetzt**<br>Up to now<br>_Şimdiye kadar_
 **durch**<br>through<br>_vasıtasıyla_ / _içinden_  | A | **Ich fahre durch den Park**<br>I drive through the park<br>_Ben parkın içinden sürüyorum (araçla geçiyorum)_
@@ -20,9 +21,9 @@ Präposition | Case | Beispiel
 **gegen**<br>against / opposite<br>_karşı_ / _tersi_ | A | **Ich bin gegen den Vorschlag**<br>I am against the suggestion<br>_Ben bu öneriye katılmıyorum_
 **gegenüber**<br>across from / opposite (people, land)<br>_nispetle_ / _kıyasla_ / _karşısında_ | D | **Gegenüber dem Bahnhof ist ein Hotel**<br>There is a hotel opposite the train station<br>_Tren istasyonunun karşısında bir otel var_
 **hinter**<br>behind<br>_ardında_ | A & D |*
-**in**<br>in<br>_içinde_ / _iç_ | A & D | *
-**mit**<br>with<br>_-li, -lı, -lu_ | D |*
-**nach**<br>to / after<br>_-a kadar _ / _bir yere/yöne_ | - | *
+**in**<br>in<br>_içinde_ / _iç_ | A & D | **Ich war letzten Sommer in den Alpen**<br>I was in the Alps last summer<br>_Geçen yaz Alp dağlarındaydım_
+**mit**<br>with<br>_-li, -lı, -lu_ | D | 
+**nach**<br>to / after<br>_-a kadar_ / _bir yere/yöne_ | D | *
 **neben**<br>next to<br>_yanında_ / _tarafında_ / _bitişiğinde_ | A & D| *
 **ohne**<br>without<br>_siz/suz (Tuzsuz/Renksiz)_ | A | **Trinkst du deinen Kaffee ohne Milch?**<br>Do you drink your coffee without milk?<br>_Sen kahveni sütsüz mü içiyorsun?_
 **seit**<br>since<br>_-den,-dan beri_ | D | **Seit wann leben Sie in Hamburg?**<br>Since when do you live in Hamburg?<br>_Ne zamandan beri Hamburg’da yaşıyorsunuz?_
@@ -41,17 +42,21 @@ Präposition | Case | Beispiel
  > **G** : Genitiv
  > **A & D** :  Wechselpräpositionen (See below)<br>
  
- Long form | Short form | Beispiel / Example
- --- | --- | ---
- an/auf dem | am | *
- an das | ans | *
- bei dem | beim | *
- in dem | im | **Ich bin im (in dem) Garten**<br>I am in the garden<br>_Bahçedeyim (bir hareket yok, dativ)_
- in das | ins | *
- von dem | vom | **vom (von dem) erste Oktober**<br>from the beginning of October<br>_Ekim'in başından itibaren_
- zu der | zur | *
- zu dem | zum
-
+ Long form | Short form | Beispiel / Example | Beispiel 2
+ --- | --- | --- | ---
+ an dem | am | **Ich bin am Bahnhof**<br>I'm at the station<br>_Tren istasyonundayım_ | *
+ auf dem | am | * | *
+ an das | ans | * | *
+ bei dem | beim | * | *
+ in dem | im | **Ich bin im (in dem) Garten**<br>I am in the garden<br>_Bahçedeyim (bir hareket yok, dativ)_ | **Ich kaufe Tomaten im Obst und Gemüseladen**<br>I buy tomatoes in the fruit and vegetable shop<br>_Meyve sebze dükkanından domates alırım_
+ in der | in der | **Wir waren gestern in der Stadt**<br>We were in town yesterday<br>_Dün şehir merkezindeydik_ | *
+ in das | ins | * | *
+ von dem | vom | **Wie fahre ich vom Hotel zum Kino?**<br>How can I drive from the hotel to the cinema?<br>_Otelden sinemaya arabayla nasıl giderim?_ | **Wie komme ich vom Bahnhof zur Post?**<br>How can I go to the post office from the train station?<br>_Tren istasyonundan postaneye nasıl gidebilirim?_
+  von den | von den (!) | **Wie kommt man von den  fahre ich vom Hotel zum Kino?**<br>How can I drive from the hotel to the cinema?<br>_Otelden sinemaya arabayla nasıl giderim?_ | **Wie komme ich vom Bahnhof zur Post?**<br>How can I go to the post office from the train station?<br>_Tren istasyonundan postaneye nasıl gidebilirim?_
+ zu der | zur | **Wissen Sie wie ich zur bank komme?**<br>Do you know how to get to the bank?<br>_Bankaya nasıl gidileceğini biliyor musunuz?_ | *
+ zu dem | zum | **Wie komme ich bitte zum Bahnhof?**<br>How can I go to the train station?<br>_Tren istasyonuna nasıl gidebilirim?_ | **Ich muss jetzt zum Hotel gehen**<br>I have to go to the hotel now<br>_Şimdi otele gitmem gerekiyor_
+ zu den | zu den (!) | **Ich will heute Abend zu den Konzerten gehen**<br>I want to go to the concert tonight<br>_Bu akşam konsere gitmek istiyorum_ | *
+ 
 ## Wechselpräpositionen / Prepositions of change
  - The case of the declined word after one of these prerpositions can change (akkustiv or dativ)
  - The verb in the sentece determines the case of the declined word after the position.
