@@ -13,7 +13,7 @@ A | B | Beispiel A | Beispiel B
 **richtig**<br>correct<br>_doğru_ | **falsch**<br>wrong<br>_yanlış_ | **Das ist richtig**<br>It's correct<br>_Bu doğru_ | *
 **sauer**<br>sour<br>_ekşi_ | **süß**<br>sweet<br>_tatlı_ | * | *
 **schön**<br>beautiful<br>_güzel_ | **hässlich**<br>ugly<br>_çirkin_ | **Aber nein, du bist nicht häßlich**<br>No, you're not ugly<br>_Hayır, sen çirkin değilsin_ | *
-**schwer**<br>heavy<br>_ağır_ | **leicht**<br>light<br>_hafif_ | * | *
+**schwer**<br>heavy<br>_ağır_ | **leicht**<br>light<br>_hafif_ | **Das ist so schwer**<br>This is so heavy<br>_Bu çok ağır_ | *
 **sehr**<br>very<br>_çok_ | **weniger**<br>fewer/less<br>_az_ | **Er ist sehr nett**<br>He is very nice<br>_O çok nazik_ | *
 **schnell**<br>fast<br>_hızlı_ | **langsam**<br>slow<br>_yavaş_ | **Dieses Auto ist so schnell**<br>This car is so fast!<br>_Bu araba çok hızlı_ | **Fahr langsam!**<br>Drive slowly!<br>_Yavaş sür!_
 **schmutzig**<br>dirty<br>_kirli_ | **sauber**<br>clean<br>_temiz_ | * | *
