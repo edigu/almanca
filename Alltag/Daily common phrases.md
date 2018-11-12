@@ -13,6 +13,7 @@ Deutsch | English | Türkçe
 **Das war's für heute** | That's all for today! | _Bugünlük bu kadar!_
 **Egal was passiert** | No matter what happens | _Ne olursa olsun_
 **Entschuldigung!** | Excuse me! / Sorry | _Afedersiniz!_
+**Es ist nicht genug** | It is not enogh | _Bu yeterli değil_
 **Geht klar!** | That's okay! | Tamamdır!
 **Gerne!** | with pleasure | _Rica ederim / ne demek_
 **Genau** | Exactly, I agree | _Aynen, katılıyorum_
