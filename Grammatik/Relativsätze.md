@@ -3,7 +3,8 @@
  - Relative clause mostly consist of several parts. A distinction is made between main clauses and subordinate clauses. The relative clause is a subordinate clause introduced by a relative pronoun or relative adverb
  - _İlgi cümleleri asıl cümle içerisinde  bulunan bir ismi veya sıfatı açıklayan yan cümlelerdir. Bu tür cümlelerde fiil mutlaka en sonda bulunur. Dikkat edilmesi gereken en önemli unsur artikellerdir. Dolayısıyla artikellerin Akkusativ, Nominativ, Dativ ve Genitiv halleri bilinmelidir._
  
-> !!! Only Maskulin is changing in Akkusativ !!!
+> **Good to remember**
+> Only Maskulin is changing in Akkusativ case
 
 Case | Object | Relativsätze
 --- | --- | ---
