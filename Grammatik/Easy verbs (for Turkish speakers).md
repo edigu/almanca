@@ -46,6 +46,7 @@
 **-s Schleppschiff** | Tow boat | _şilep_
 **Schnitzel** | schnitzel | _Şinitzel_
 **-r Schnorchel** | Snorkel | _Şnorkel_
+**pleasant** | sympathisch | _sempatik_
 **-e Techniker** | technician | _tekniker_
 **-e Tomaten** | tomato | _domates_
 **-r Vampir** | Vampire | _Vampir_
