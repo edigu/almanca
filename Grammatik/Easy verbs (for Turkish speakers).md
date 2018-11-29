@@ -20,6 +20,7 @@
 **-r Dozent** | associate professor | _doçent_
 **-s Drama** | Drama | _Drama_
 **-r Dusche** | shower | _duş_
+**-r Elektronik** | Electronic | _Elektronik_
 **-s Element** | Element | _Element_
 **-s Embargo** | embargo | _ambargo_
 **-e Firma** | Company | _şirket (firma)_
@@ -54,4 +55,5 @@
 **-s Vokal** | Vocal | _Vokal_
 **-r Walzer** | waltz | _Vals_
 **-s Wermut** | Vermouth | _Vermut_
+**-e Zellulose** | Cellulose | _Selüloz_
 **-r Zeppelin** | Zeppelin | _Zeplin_
