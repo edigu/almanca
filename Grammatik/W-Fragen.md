@@ -10,6 +10,10 @@ Nominative | Akkusativ<br>Direkt Objekt | Dativ<br>Indirekt Objekt | Genitiv | E
 **Welcher** | welchen | welchem | welches | Which<br>_Hangi?_ | **Welche Farbe hat dein Kleid?**<br>What colour is your dress?<br>_Elbiseniz hangi renk?_
 **Wo** | wo | wo | wo | Where<br>_Nerede?_ | **Wo bist du?**<br>Where are you?<br>_Neredesin?_
 **Wie** | wie | wie | wie | How<br>_Nasıl?_ | **Wie alt bist du?**<br>How old are you?<br>_Kaç yaşındasın?_
+**Wie viel?** | - | - | - | How much?<br>_Ne kadar?_ | -
+**Wie viele?** | - | - | - | How many?<br>_Kaç tane/adet (sayılabilen)?_ | -
+
+
 **Wann** | wann | wann | wann | When<br>_Ne zaman?_ | **Wann kommst du wieder?**<br>When will you be back?<br>_Ne zaman geri geleceksin?_
 
 > Don't confuse the **Wann** with **Wenn** (if)
