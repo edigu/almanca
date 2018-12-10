@@ -19,4 +19,4 @@ A | B | Beispiel A | Beispiel B
 **schnell**<br>fast<br>_hızlı_ | **langsam**<br>slow<br>_yavaş_ | **Dieses Auto ist so schnell**<br>This car is so fast!<br>_Bu araba çok hızlı_ | **Fahr langsam!**<br>Drive slowly!<br>_Yavaş sür!_
 **schmutzig**<br>dirty<br>_kirli_ | **sauber**<br>clean<br>_temiz_ | * | *
 **voll**<br>full<br>_dolu_ | **leer**<br>empty<br>_boş_ | **Benzintank ist voll**<br>Petrol tank is full<br>_Benzin deposu dolu_ | **Der Flasche ist leer**<br>The bottle is empty<br>_Şişe boş_
-**zuerst**<br>first<br>_ilk/birinci_ | **letzte**<br>last<br>_sonuncu_ | **Er ging als Letzter**<br>He went last<br>_Sonuncu olarak gitti_ | *
+**zuerst**<br>first<br>_ilk/birinci_ | **letzte**<br>last<br>_sonuncu/ardıl_ | **Ich habe zuerst mein Gesicht gewaschen**<br>I washed my face first<br>_Önce yüzümü yıkıdım_ | **Er ging als Letzter**<br>He went last<br>_Sonuncu olarak gitti_
