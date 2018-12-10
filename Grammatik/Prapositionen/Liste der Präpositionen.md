@@ -2,6 +2,12 @@
 
  - Prepositions are the auxiliary words that establish meaning relation between different types of words. In German, the prepositions can be found in different cases of the name.
  - _Edatlar farklı türdeki sözcükler arasında anlam ilişkisi kuran yardımcı sözcüklerdir. Almanca’da edatlar ismin farklı hallerinde bulunabilirler._
+ 
+> **A** : Akkusativ<br>
+> **D** : Dativ<br>
+> **N** : Nominativ<br>
+> **G** : Genitiv
+> **A & D** :  Wechselpräpositionen (See below)<br>
 
 Präposition | Case | Beispiel
 --- | --- | ---
@@ -35,9 +41,3 @@ Präposition | Case | Beispiel
 **wegen**<br>because of<br>_dolayı_ | G | **Ich muss wegen des schlechten Wetters zu Hause bleiben**<br>I have to stay home because of the bad weather<br>_Kötü havadan dolayı evde durmak zorundayım_
 **zu**<br>to / too<br>_bellirli bir an_ / _zaman_ / _yer_ | D | *
 **zwischen**<br>between<br>_arasında_ | A & D | **Ich stehe zwischen ihm und ihr**<br>I am standing between him and her<br>_İkisinin (bir kız ve erkek) arasında duruyorum_
-
- > **A** : Akkusativ<br>
- > **D** : Dativ<br>
- > **N** : Nominativ<br>
- > **G** : Genitiv
- > **A & D** :  Wechselpräpositionen (See below)<br>
