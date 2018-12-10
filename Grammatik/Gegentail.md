@@ -2,6 +2,7 @@
 
 A | B | Beispiel A | Beispiel B
 --- | --- | --- | ---
+**einfach**<br>easy<br>_kolay_ | **schwierig**<br>difficult<br>_zor_ | **Ein einfaches Beispiel**<br>A simple example<br>_Kolay bir örnek_ | **Es ist sehr schwierig**<br>It is very hard.<br>_Bu çok zor_
 **früh**<br>early<br>_erken_ | **spät**<br>late<br>_geç_ | **Er kam zu spät**<br>He was too late<br>_O çok geç geldi_ | *
 **gut**<br>good<br>_iyi_ | **schlecht**<br>bad<br>_kötü_ | **Das ist gut für meine Gesundheit**<br>It's good for my health<br>_Bu sağlığım için iyi_ | *
 **heiß**<br>hot<br>_sıcak_ | **kalt**<br>cold<br>_soğuk_ | * | *
