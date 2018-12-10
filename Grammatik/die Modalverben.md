@@ -1,5 +1,5 @@
 ## die Modalverben (Modal Verbs)
-### Modal Fiiler
+### Modal Fiiller
 
 Modal verbs require a verb in the infinitive that complements its meaning and all of them are irregular.
 
