@@ -23,6 +23,7 @@ Idiom | English equivalent<br>(Literal meaning) | Türkçe anlamı
 **nicht alle Tassen im Schrank haben** | not have all their marbles | _kafada tahta eksik, kafanın biraz gidik olması_
 **Nichts für ungut!** | No offence meant!<br>(Nothing for not good) | _üzerinize alınmayın / niyetim sizi kırmak değil_
 **Öl ins Feuer gießen** | add fuel to the fire<br>(Pour oil into the fire) | _yangına körükle gitmek_
+**Reden ist silber schweigen ist gold** | Talk is silver silence is gold | _Söz gümüşse sükut altındır_
 **sein Geld zum Fenster hinauswerfen** | to make ducks and drakes of one's money<br>(to throw one's money out of the window) | _mirasyedi olmak / birinin parasını çarçur etmek_
 **sich zum Affen machen** | Make a fool of yourself<br>(Make an ape of yourself) | _Kendini komik duruma düşürmek_
 **sich (←dative) etwas leicht machen** | to take the easy way out<br>(to make something easy for oneself) | _işin kolayına kaçmak_
@@ -31,4 +32,6 @@ Idiom | English equivalent<br>(Literal meaning) | Türkçe anlamı
 **Wenn man vom Teufel spricht** | speak of the devil (and in he walks) | 	_iyi insan lafının üstüne gelirmiş<br>iti an çomağı hazırla_
 **wie ein Blitz aus heiterem Himmel** | like a bolt from the blue<br>(like a bolt from the bright sky) | _birdenbire / apansız / aniden_
 **zwei Fliegen mit einer Klappe schlagen** | To kill two birds with one stone<br>(Kill two flies with one swat) | _Bir taşla iki kuş vurmak_
+
+
 
