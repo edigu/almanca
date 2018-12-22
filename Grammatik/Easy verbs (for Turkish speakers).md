@@ -113,6 +113,7 @@
 ### Tt
 **Verb / Noun** | English | _Türkçe_
 --- | --- | ---
+**-s Tandem** | Tandem | _Tandem (iki kişilik bisiklet)_
 **-e Techniker** | technician | _tekniker_
 **-e Tomaten** | tomato | _domates_
 **-r Tourist** | the tourist | _Turist_
