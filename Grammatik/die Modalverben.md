@@ -26,7 +26,8 @@ Verb | Meaning | English | Türkçe | Beispiel
  - Careful with the verb "mögen". The verb stem is not that same as that of the Präteritum.
    **Mögen fiiline dikkat et. Diğer zamanlarda form değiştiriyor.**
 
-### Präsens (Present)
+
+### Präsens (Present) / Şimdiki Zaman
 
 Pronoun <br> Zamir | dürfen | können | mögen | müssen | sollen | wollen
 --- | --- | --- | --- | --- | --- | ---
@@ -36,4 +37,3 @@ Pronoun <br> Zamir | dürfen | können | mögen | müssen | sollen | wollen
 **wir** | dürfen | können | mögen | müssen | sollen | wollen
 **ihr** | dürft | könnt | mögt | müsst | sollt | wollt
 **sie** | dürfen | können | mögen | müssen | sollen | wollen
-
