@@ -27,7 +27,7 @@ Verb | Meaning | English | Türkçe | Beispiel
    **Mögen fiiline dikkat et. Diğer zamanlarda form değiştiriyor.**
 
 
-### Präsens (Present) / Şimdiki Zaman
+### Präsens / Present Tense / Şimdiki Zaman
 
 Pronoun <br> Zamir | dürfen | können | mögen | müssen | sollen | wollen
 --- | --- | --- | --- | --- | --- | ---
@@ -37,3 +37,43 @@ Pronoun <br> Zamir | dürfen | können | mögen | müssen | sollen | wollen
 **wir** | dürfen | können | mögen | müssen | sollen | wollen
 **ihr** | dürft | könnt | mögt | müsst | sollt | wollt
 **sie** | dürfen | können | mögen | müssen | sollen | wollen
+
+### Präteritum / Past / Geçmiş Zaman
+
+Pronoun <br> Zamir | dürfen	| können	| mögen	| müssen	| sollen	| wollen
+--- | --- | --- | --- | --- | --- | ---
+**ich**	| durfte	| konnte	| mochte	| musste	| sollte	| wollte
+**du**	| durftest	| konntest	| mochtest	| musstest	| solltest	| wolltest
+**er/sie/es**	| durfte	| konnte	| mochte	| musste	| sollte	| wollte
+**wir**	| durften |	konnten	| mochten	| mussten	| sollten	| wollten
+**ihr**	| durftet	| konntet	| mochtet	| musstet	| solltet	| wolltet
+**sie**	| durften	| konnten	| mochten	| mussten	| sollten	| wollten
+
+### Konjunktiv I / Indirect (Reported) Speech / Dolaylı Anlatım
+
+ * Konjunktiv I is used primarily for indirect speech. Indirect speech is when the narrator communicates what has been said by another person.
+ * _Almancada dolaylı anlatım için her zaman Konjunktiv I kullanılır_
+ 
+**Thomas sagt, er sei 35 Jahre alt**<br>
+Thomas says that he is 35 years old<br>
+Thomas 35 yaşında olduğunu söylüyor
+
+Pronoun <br> Zamir | dürfen	| können	| mögen	| müssen	| sollen	| wollen
+--- | --- | --- | --- | --- | --- | ---
+**ich**	| dürfe	| könne	| möge	| müsse	| solle	| wolle
+**du**	| dürfest	| könnest	| mögest	| müssest	| sollest	| wollest
+**er/sie/es**	| dürfe	| könne	| möge	| müsse	| solle	| wolle
+**wir**	| dürfen	| können	| mögen	| müssen	| sollen	| wollen
+**ihr**	| dürfet	| könnet	| möget	| müsset	| sollet	| wollet
+**sie**	| dürfen	| können	| mögen	| müssen	| sollen	| wollen
+
+### Konjunktiv II
+
+Pronoun <br> Zamir | dürfen	| können	| mögen	| müssen	| sollen	| wollen
+--- | --- | --- | --- | --- | --- | ---
+**ich**	| dürfte	| könnte	| möchte	| müsste	| sollte	| wollte
+**du**	| dürftest	| könntest	| möchtest	| müsstest	| solltest	| wolltest
+**er/sie/es**	| dürfte	| könnte	| möchte	| müsste	| sollte	| wollte
+**wir**	| dürften	| könnten	| möchten	| müssten	| sollten	| wollten
+**ihr**	| dürftet	| könntet	| möchtet	| müsstet	| solltet	| wolltet
+**sie**	| dürften	| könnten	| möchten	| müssten	| sollten	| wollten
