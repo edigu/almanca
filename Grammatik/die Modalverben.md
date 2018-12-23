@@ -67,7 +67,7 @@ Pronoun <br> Zamir | dürfen	| können	| mögen	| müssen	| sollen	| wollen
 **ihr**	| dürfet	| könnet	| möget	| müsset	| sollet	| wollet
 **sie**	| dürfen	| können	| mögen	| müssen	| sollen	| wollen
 
-### Konjunktiv II
+### Konjunktiv II / Subjunctive / Dilek Kipi
 
 Pronoun <br> Zamir | dürfen	| können	| mögen	| müssen	| sollen	| wollen
 --- | --- | --- | --- | --- | --- | ---
