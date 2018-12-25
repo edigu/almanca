@@ -5,14 +5,14 @@
 
 ### Einfache Verbformen & Indikativ
 
-Person | Präsens | Präteritum (Past) | Imperativ | Konjunktiv I | Konjunktiv II | Perfekt | Futur I
+Person | Präsens | Präteritum (Past) | Imperativ | Konjunktiv I | Konjunktiv II | Perfekt | Futur
 --- | --- | --- | --- | --- | --- | --- | --- 
-Ich | **werde** | wurde |  |  | würde | geworden | 
-Du | **wirst** | wurdest  |  |  | würdest  |  | 
-Er | **wird** | wurde | &ndash; |  | würde |  | 
-Wir | **werden** | wurden | &ndash; |  | würden |  | 
-Ihr | **werdet** | wurdet | &ndash; |  | würdet |  | 
-Sie | **werden** | wurden | &ndash; |  | würden |  | 
+Ich | **werde** | wurde |  |  | würde | geworden | werde
+Du | **wirst** | wurdest  |  |  | würdest  |  | wirst
+er/sie/es | **wird** | wurde | &ndash; |  | würde |  | wird
+Wir | **werden** | wurden | &ndash; |  | würden |  | werden
+Ihr | **werdet** | wurdet | &ndash; |  | würdet |  | werdet
+Sie | **werden** | wurden | &ndash; |  | würden |  | werden
 
 
 ### Examples
