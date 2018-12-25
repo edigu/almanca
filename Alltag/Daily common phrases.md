@@ -9,6 +9,7 @@ Deutsch | English | Türkçe
 **Bitte<br>Bitte?<br>Bitte!<br>Bitte (schön)!<br>Bitte sehr!** | Please<br>Pardon?<br>You're welcome!<br>Here you are!<br>You're welcome! | _Lütfen!<br>Buyrun?<br>Rica ederim!<br>Buyrun!<br>Ne demek efendim, rica ederim_
 **Bis bald!** | Se you soon! / Until soon! | _Görüşmek üzere! / Görüşürüz!_
 **Danke!<br>Danke schön/sehr!<br>Vielen dank!** | Thank you! / Thanks!<br>Thank you very much!<br>Many thanks! | _Teşekkür ederim! / Teşekkürler!<br>Çok teşekkür ederim!<br>Çok sağolun!_
+**Danke, gleichfalls!** | Thanks, same to you! | _Teşekkürler, size de!_
 **Das war's** | That's all! | _Bu kadar!_
 **Das war's für heute** | That's all for today! | _Bugünlük bu kadar!_
 **Egal was passiert** | No matter what happens | _Ne olursa olsun_
