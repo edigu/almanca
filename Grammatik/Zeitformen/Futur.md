@@ -15,6 +15,7 @@ Giving an order (imperative)<br>_Emir verirken (zorunluluk)_ | **Du wirst jetzt 
 Expressing an assumption about a present fact<br>_Mevcut durumla ilgili varsayım_ | **Sie wird müde sein** | She is probably tired | _O yorgun olacak (yorulmuştur)_
 Example 1 | **Sie wird ein Auto kaufen** | She will buy a car | _O bir araba alacak_
 Example 2 | **Wir werden unsterblich sein** | We will be immortal | _Ölümsüz olacağız_
+Regular main clause<br>_Normal ana cümle (haupsatz)_ | **Er wird mit dir tanzen** | He will dance with you | _Seninle dans edecek_
 
 ## Futur II / Future Perfect
 
