@@ -8,11 +8,11 @@
 Person | Präsens | Präteritum (Past) | Imperativ | Konjunktiv I | Konjunktiv II | Perfekt | Futur
 --- | --- | --- | --- | --- | --- | --- | --- 
 Ich | **werde** | wurde |  | werde | würde | geworden | werde
-Du | **wirst** | wurdest  |  | werdest  | würdest  |  | wirst
-er/sie/es | **wird** | wurde | &ndash; | werde | würde |  | wird
-Wir | **werden** | wurden | &ndash; | werden | würden |  | werden
-Ihr | **werdet** | wurdet | &ndash; | werdet | würdet |  | werdet
-Sie | **werden** | wurden | &ndash; | werden | würden |  | werden
+Du | **wirst** | wurdest  |  | werdest  | würdest  | geworden | wirst
+er/sie/es | **wird** | wurde | &ndash; | werde | würde | geworden | wird
+Wir | **werden** | wurden | &ndash; | werden | würden | geworden | werden
+Ihr | **werdet** | wurdet | &ndash; | werdet | würdet | geworden | werdet
+Sie | **werden** | wurden | &ndash; | werden | würden | geworden | werden
 
 
 ### Examples
