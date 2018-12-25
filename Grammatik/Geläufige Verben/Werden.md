@@ -7,12 +7,12 @@
 
 Person | Präsens | Präteritum (Past) | Imperativ | Konjunktiv I | Konjunktiv II | Perfekt | Futur
 --- | --- | --- | --- | --- | --- | --- | --- 
-Ich | **werde** | wurde |  |  | würde | geworden | werde
-Du | **wirst** | wurdest  |  |  | würdest  |  | wirst
-er/sie/es | **wird** | wurde | &ndash; |  | würde |  | wird
-Wir | **werden** | wurden | &ndash; |  | würden |  | werden
-Ihr | **werdet** | wurdet | &ndash; |  | würdet |  | werdet
-Sie | **werden** | wurden | &ndash; |  | würden |  | werden
+Ich | **werde** | wurde |  | werde | würde | geworden | werde
+Du | **wirst** | wurdest  |  | werdest  | würdest  |  | wirst
+er/sie/es | **wird** | wurde | &ndash; | werde | würde |  | wird
+Wir | **werden** | wurden | &ndash; | werden | würden |  | werden
+Ihr | **werdet** | wurdet | &ndash; | werdet | würdet |  | werdet
+Sie | **werden** | wurden | &ndash; | werden | würden |  | werden
 
 
 ### Examples
