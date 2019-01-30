@@ -3,7 +3,7 @@
 Deutsch | English | Türkçe
 --- | --- | ---
 **Bahn** | Train / Track / Path | _Tren_ / _Hat_ / _Yol_
-**Bahnhof** | Railway station | _Tren istasyonu_
+**Bahnhof** | Train station | _Tren istasyonu_
 **Eisbahn** | Ice rink | _Buz pateni pisti_
 **Eisenbahn** | Railroad | _Trenyolu_
 **Hauptbahnhof** | Main train station | _Ana tren istasyonu_
