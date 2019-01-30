@@ -6,6 +6,7 @@ A | B | Beispiel A | Beispiel B
 **früh**<br>early<br>_erken_ | **spät**<br>late<br>_geç_ | **Er kam zu spät**<br>He was too late<br>_O çok geç geldi_ | *
 **gut**<br>good<br>_iyi_ | **schlecht**<br>bad<br>_kötü_ | **Das ist gut für meine Gesundheit**<br>It's good for my health<br>_Bu sağlığım için iyi_ | *
 **heiß**<br>hot<br>_sıcak_ | **kalt**<br>cold<br>_soğuk_ | * | *
+**hoch**<br>high<br>_yüksek_ | **tief**<br>low<br>_alçak_ | * | *
 **klein**<br>small<br>_küçük_ | **gross**<br>big<br>_büyük_ | **Das ist ein sehr kleines Haus**<br>It is a very small home<br>_Bu çok küçük bir ev_  | *
 **kurz**<br>short<br>_kısa_ | **lang**<br>long<br>_uzun_ | **Der Tisch ist zwei Meter lang**<br>The table is two meters long<br>_Masa iki metre uzunluğunda_ | *
 **neu**<br>new<br>_yeni_ | **alt**<br>old<br>_eski_ | **Ich kaufte ein neues Auto**<br>I bought a new car<br>_Yeni bir araba aldım_ | *
