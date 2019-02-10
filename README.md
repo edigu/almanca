@@ -27,6 +27,8 @@ Term | Definition in English
 **-s Verb**<br>Verb<br>_Fiil_ | A word used to describe an action, state, or occurrence, and forming the main part of the predicate of a sentence, such as hear, become, happen.
 **-r Zwischenruf**<br>Interjection<br>_Ünlem_ | In linguistics, an interjection is a word or expression that occurs as an utterance on its own and expresses a spontaneous feeling or reaction.
 
+# More good resources
+ - [German for Programmers](https://wickedchicken.github.io/post/german-for-programmers/)
 
 ## Contribute
  - Are you also interested with the language? Any kind of PR's are welcome!
