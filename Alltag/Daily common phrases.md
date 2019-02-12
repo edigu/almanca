@@ -29,6 +29,7 @@ Deutsch | English | Türkçe
 **keinen Grund** | no reason | _sebebi olmaksızın_
 **Kein problem** | No problem | _Sorun değil_
 **Los geht's** | Here we go! | _İşte gidiyoruz, hadi bakalım_
+**Na gut!** | Fair enough! / Very well then! | _Tamam o zaman!_
 **Oh mein Gott!** | Oh my God! | _Aman yarabbi!_
 **So la la** | So so | _Eh işte (ne iyi ne kötü)_
 **Sogar mehr** | even more.. | _dahası_
