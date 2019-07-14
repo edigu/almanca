@@ -8,5 +8,6 @@ Deutsch | English | Türkçe | Beispiel
 **auch** | also | _dahi anlamına gelen -de,_<br>ayrıca | **Mir auch gut.**<br>Me also fine.<br>_Ben de iyiyim._
 **außerdem** | furthermore | _üstune üstlük, dahası_ | **Außerdem habe ich ihn auch gesehen.**<br>Furthermore, I saw him too.<br>_Dahası, ben de omu gördüm._
 **dann** | then | _sonra, ardından_ | **und dann ging sie.**<br>and then, she went.<br>_ve ardından, o gitti._
+**dafür** | therefore | _bu yüzden, bunun için_ | **Eigentlich sollte ich mich dafür bei dir bedanken.**<br>Actually, I should thank you for that.<br>_Daha sonra onun için bol vaktimiz olacak._
 
 Source: http://languagelearningbase.com/87724/vokabelliste-verbindungsworter-linking-words
