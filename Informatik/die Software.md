@@ -12,6 +12,7 @@ Deutsch | English | Türkçe
 **Implementierung** | Implementation | _Uygulamak_
 **Mandantenfähigkeit** | Multi tenancy | _Coklu (ortak) kullanım_
 **Methodennamen** | Method names | _Fonksiyon isimleri_
+**Regulären Ausdrücken** | Regular expressions | _Düzenli ifadeler_
 **Schließen** | Close | _Kapat_
 **Speichern** | Save | _Kaydet_
 **Standardeinstellung** / Voreinstellung | Default | _Varsayılan_
