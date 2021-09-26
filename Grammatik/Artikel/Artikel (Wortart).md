@@ -1,8 +1,10 @@
 ## Artikel / Articles / Ön ekler
 
-German articles are used similarly to the English articles, a and the. However, they are declined differently according to the number, gender and case of their nouns.
+German articles are used similarly to the English articles, "a" and "the". However, they are declined differently according to the number, gender and case of their nouns.
 
-_Almanca'da ön ekler kelimelerden önce gelir ve eril, dişil, nötür veya fiilin durumuna göre cümle yapısını etkiler. İngilizce'de sıkça kullanılan _a_ ve _the_ ile benzerlik gösterir. Almanca yeni bir kelime öğrenirken ön ekiyle birlikte ezberlemek oldukça iyi bir pratiktir._
+_Almanca'da ön ekler kelimelerden önce gelir ve eril, dişil, nötür veya fiilin durumuna göre cümle yapısını etkiler. İngilizce'de sıkça kullanılan _a_ ve _the_ ile benzerlik gösterir._
+
+_**Önemli** - Almanca yeni bir kelime öğrenirken ön ekiyle birlikte ezberlemek oldukça iyi bir pratiktir._
 
 ## Definite articles
 
